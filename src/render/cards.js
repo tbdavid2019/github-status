@@ -3,44 +3,119 @@ import {
   formatBytesFromKB,
   formatDate,
   formatNumber,
-  metricCell,
   progressBar,
   svgDocument,
   text,
   truncate,
 } from "./svg.js";
 
-function contributionValue(stats, key) {
-  if (!stats.contributions) return "n/a";
-  return formatNumber(stats.contributions[key]);
+function clamp(value, min = 0, max = 1) {
+  return Math.min(max, Math.max(min, Number(value || 0)));
 }
 
-export function renderStatsCard(stats) {
+function easeOutCubic(value) {
+  const t = clamp(value);
+  return 1 - (1 - t) ** 3;
+}
+
+function metricProgress(animationProgress, index) {
+  const start = 0.08 + index * 0.07;
+  return easeOutCubic((animationProgress - start) / 0.58);
+}
+
+function formatAnimatedNumber(value, progress) {
+  return formatNumber(Math.round(Number(value || 0) * clamp(progress)));
+}
+
+function scoreProfile(stats) {
+  const contributions = stats.contributions?.totalContributions || 0;
+  return (
+    stats.totals.stars * 2 +
+    stats.totals.forks * 3 +
+    stats.owner.followers * 4 +
+    contributions * 2 +
+    stats.repositoryPolicy.selectedRepoCount * 5
+  );
+}
+
+function profileGrade(stats) {
+  const score = scoreProfile(stats);
+  if (score >= 16000) return { label: "S", progress: 0.96 };
+  if (score >= 8000) return { label: "A++", progress: 0.88 };
+  if (score >= 4500) return { label: "A+", progress: 0.8 };
+  if (score >= 2200) return { label: "A", progress: 0.72 };
+  if (score >= 900) return { label: "B+", progress: 0.62 };
+  return { label: "B", progress: 0.54 };
+}
+
+function iconPath(name) {
+  const paths = {
+    star: '<path d="M7 1.4 8.9 5.1l4.1.6-3 2.9.7 4.1L7 10.8 3.3 12.7l.7-4.1-3-2.9 4.1-.6L7 1.4Z"/>',
+    fork: '<circle cx="4" cy="3.2" r="1.6"/><circle cx="10" cy="3.2" r="1.6"/><circle cx="7" cy="11" r="1.6"/><path d="M4 4.8v1.7c0 1.5 1.2 2.7 2.7 2.7H7M10 4.8v1.7c0 1.5-1.2 2.7-2.7 2.7H7"/>',
+    issue: '<circle cx="7" cy="7" r="5.4"/><path d="M7 3.8v4.2"/><path d="M7 10.4h.1"/>',
+    users: '<circle cx="5.2" cy="4.7" r="2.1"/><path d="M1.8 12c.5-2 1.7-3.1 3.4-3.1 1.8 0 3 1.1 3.4 3.1"/><circle cx="10.3" cy="5.6" r="1.6"/><path d="M9.6 9.1c1.4.1 2.3 1 2.7 2.7"/>',
+    pulse: '<path d="M1.5 8h2.2l1.2-4.5 2.2 7.3 1.5-5h3.9"/>',
+    repo: '<rect x="2.5" y="1.8" width="9" height="10.4" rx="1.3"/><path d="M5 4.2h4"/><path d="M5 6.7h4"/><path d="M5 9.2h2.4"/>',
+  };
+  return paths[name] || paths.star;
+}
+
+function icon(name, x, y) {
+  return `<g transform="translate(${x} ${y})" stroke="#0969da" stroke-width="1.7" fill="none" stroke-linecap="round" stroke-linejoin="round">${iconPath(name)}</g>`;
+}
+
+function statRow({ name, label, value, x, y, index, animationProgress }) {
+  const progress = metricProgress(animationProgress, index);
+  const opacity = (0.38 + progress * 0.62).toFixed(2);
+
+  return `
+    <g opacity="${opacity}">
+      ${icon(name, x, y - 11)}
+      ${text(x + 25, y, label, "stat-label")}
+      ${text(x + 218, y, formatAnimatedNumber(value, progress), "stat-value", 'text-anchor="end"')}
+    </g>`;
+}
+
+export function renderStatsCard(stats, options = {}) {
   const width = 560;
-  const height = 330;
+  const height = 260;
+  const animationProgress = options.animationProgress == null ? 1 : clamp(options.animationProgress);
   const ownerName = stats.owner.displayName || stats.owner.login;
   const title = `${ownerName}'s GitHub Stats`;
   const subtitle = `@${stats.owner.login} · updated ${formatDate(stats.generatedAt)}`;
   const latestPush = formatDate(stats.totals.latestPushAt);
   const contributionLabel = stats.contributions ? `Contributions ${stats.contributions.year}` : "Contributions";
+  const contributionTotal = stats.contributions?.totalContributions || 0;
+  const grade = profileGrade(stats);
+  const ringProgress = grade.progress * easeOutCubic((animationProgress - 0.08) / 0.74);
+  const radius = 43;
+  const circumference = 2 * Math.PI * radius;
+  const dashOffset = circumference * (1 - ringProgress);
+
+  const rows = [
+    { name: "star", label: "Total Stars", value: stats.totals.stars },
+    { name: "fork", label: "Total Forks", value: stats.totals.forks },
+    { name: "issue", label: "Open Issues", value: stats.totals.openIssues },
+    { name: "users", label: "Followers", value: stats.owner.followers },
+    { name: "pulse", label: contributionLabel, value: contributionTotal },
+    { name: "repo", label: "Selected Repos", value: stats.repositoryPolicy.selectedRepoCount },
+  ];
 
   const children = `
     ${text(28, 38, title, "title")}
     ${text(28, 60, subtitle, "subtitle")}
 
-    ${metricCell({ x: 28, y: 105, label: "Selected repos", value: formatNumber(stats.repositoryPolicy.selectedRepoCount) })}
-    ${metricCell({ x: 190, y: 105, label: "Source repos", value: formatNumber(stats.repositoryPolicy.sourceRepoCount) })}
-    ${metricCell({ x: 352, y: 105, label: "Forked repos", value: formatNumber(stats.repositoryPolicy.forkedRepoCount) })}
+    ${rows.map((row, index) => statRow({ ...row, x: 32, y: 92 + index * 25, index, animationProgress })).join("\n")}
 
-    ${metricCell({ x: 28, y: 170, label: "Stars", value: formatNumber(stats.totals.stars) })}
-    ${metricCell({ x: 190, y: 170, label: "Forks", value: formatNumber(stats.totals.forks) })}
-    ${metricCell({ x: 352, y: 170, label: "Open issues", value: formatNumber(stats.totals.openIssues) })}
+    <circle cx="440" cy="139" r="${radius}" stroke="#d8dee4" stroke-width="8"/>
+    <circle cx="440" cy="139" r="${radius}" stroke="#0969da" stroke-width="8" stroke-linecap="round"
+      stroke-dasharray="${circumference.toFixed(2)}" stroke-dashoffset="${dashOffset.toFixed(2)}"
+      transform="rotate(-90 440 139)"/>
+    ${text(440, 148, grade.label, "grade", 'text-anchor="middle"')}
+    ${text(440, 176, "PROFILE GRADE", "grade-caption", 'text-anchor="middle"')}
 
-    ${metricCell({ x: 28, y: 235, label: "Followers", value: formatNumber(stats.owner.followers) })}
-    ${metricCell({ x: 190, y: 235, label: contributionLabel, value: contributionValue(stats, "totalContributions") })}
-    ${metricCell({ x: 352, y: 235, label: "Latest push", value: latestPush })}
-
-    ${text(28, 300, `Storage footprint: ${formatBytesFromKB(stats.totals.sizeKB)} · archived repos: ${formatNumber(stats.repositoryPolicy.archivedRepoCount)}`, "small")}
+    ${text(342, 220, `Latest push ${latestPush}`, "footer")}
+    ${text(28, 238, `Source repos: ${formatNumber(stats.repositoryPolicy.sourceRepoCount)} · forked repos: ${formatNumber(stats.repositoryPolicy.forkedRepoCount)} · storage: ${formatBytesFromKB(stats.totals.sizeKB)}`, "footer")}
   `;
 
   return svgDocument({ width, height, children, label: title });

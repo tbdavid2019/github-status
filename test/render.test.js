@@ -1,6 +1,7 @@
 import assert from "node:assert/strict";
 import test from "node:test";
 import { renderLanguagesCard, renderStatsCard, renderTopReposCard } from "../src/render/cards.js";
+import { renderAnimatedStatusGif } from "../src/render/gif.js";
 
 const stats = {
   generatedAt: "2026-05-03T00:00:00.000Z",
@@ -50,7 +51,8 @@ test("renderStatsCard returns valid SVG text", () => {
   const svg = renderStatsCard(stats);
   assert.match(svg, /<svg/);
   assert.match(svg, /Octocat&apos;s GitHub Stats/);
-  assert.match(svg, /Selected repos/);
+  assert.match(svg, /Selected Repos/);
+  assert.match(svg, /PROFILE GRADE/);
 });
 
 test("renderLanguagesCard returns language rows", () => {
@@ -63,4 +65,10 @@ test("renderTopReposCard returns repository rows", () => {
   const svg = renderTopReposCard(stats);
   assert.match(svg, /hello-world/);
   assert.match(svg, /★ 42/);
+});
+
+test("renderAnimatedStatusGif returns animated GIF bytes", async () => {
+  const gif = await renderAnimatedStatusGif(stats, { frameCount: 4, delay: 30, finalDelay: 60 });
+  assert.ok(Buffer.isBuffer(gif));
+  assert.equal(gif.subarray(0, 3).toString("ascii"), "GIF");
 });

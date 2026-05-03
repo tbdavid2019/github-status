@@ -10,6 +10,7 @@ import {
 } from "./github.js";
 import { aggregateStats } from "./stats.js";
 import { renderLanguagesCard, renderStatsCard, renderTopReposCard } from "./render/cards.js";
+import { renderAnimatedStatusGif } from "./render/gif.js";
 
 async function writeOutputFiles(outputDir, stats) {
   await mkdir(outputDir, { recursive: true });
@@ -19,10 +20,11 @@ async function writeOutputFiles(outputDir, stats) {
     "languages.svg": renderLanguagesCard(stats),
     "top-repos.svg": renderTopReposCard(stats),
     "stats.json": `${JSON.stringify(stats, null, 2)}\n`,
+    "status.gif": await renderAnimatedStatusGif(stats),
   };
 
   for (const [fileName, content] of Object.entries(files)) {
-    await writeFile(join(outputDir, fileName), content, "utf8");
+    await writeFile(join(outputDir, fileName), content);
   }
 }
 

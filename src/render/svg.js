@@ -35,10 +35,15 @@ export function svgDocument({ width, height, children, label = "GitHub statistic
 <svg width="${width}" height="${height}" viewBox="0 0 ${width} ${height}" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="${escapeXml(label)}">
   <title>${escapeXml(label)}</title>
   <style>
-    .title { font: 700 20px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill: #24292f; }
+    .title { font: 700 20px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill: #0969da; }
     .subtitle { font: 500 12px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill: #57606a; }
     .label { font: 600 13px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill: #57606a; }
     .value { font: 700 18px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill: #0969da; }
+    .stat-label { font: 700 13px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill: #57606a; }
+    .stat-value { font: 800 13px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill: #0969da; }
+    .grade { font: 800 27px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill: #0969da; }
+    .grade-caption { font: 700 10px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill: #57606a; letter-spacing: 0.4px; }
+    .footer { font: 600 11px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill: #57606a; }
     .small { font: 500 12px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill: #57606a; }
     .repo { font: 700 14px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill: #0969da; }
     .desc { font: 500 12px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill: #57606a; }

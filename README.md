@@ -14,6 +14,7 @@ Therefore, each fork automatically generates cards for the fork owner.
 The workflow writes these files every day:
 
 ```text
+generated/status.gif
 generated/stats.svg
 generated/languages.svg
 generated/top-repos.svg
@@ -23,14 +24,18 @@ generated/stats.json
 Use them in your README:
 
 ```md
+![GitHub status](./generated/status.gif)
 ![GitHub stats](./generated/stats.svg)
 ![Top languages](./generated/languages.svg)
 ![Top repositories](./generated/top-repos.svg)
 ```
 
+Use `status.gif` when you want the animated white stats card in a GitHub profile README.
+
 When used from another repository, point the images at your fork:
 
 ```md
+![GitHub status](https://raw.githubusercontent.com/YOUR_LOGIN/github-status/main/generated/status.gif)
 ![GitHub stats](https://raw.githubusercontent.com/YOUR_LOGIN/github-status/main/generated/stats.svg)
 ![Top languages](https://raw.githubusercontent.com/YOUR_LOGIN/github-status/main/generated/languages.svg)
 ![Top repositories](https://raw.githubusercontent.com/YOUR_LOGIN/github-status/main/generated/top-repos.svg)

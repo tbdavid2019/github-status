@@ -10,7 +10,10 @@
   "scripts": {
     "generate": "node src/index.js",
     "test": "node --test",
-    "check": "node --check src/index.js && node --check src/env.js && node --check src/github.js && node --check src/http.js && node --check src/stats.js && node --check src/render/cards.js && node --check src/render/svg.js"
+    "check": "node --check src/index.js && node --check src/env.js && node --check src/github.js && node --check src/http.js && node --check src/stats.js && node --check src/render/cards.js && node --check src/render/gif.js && node --check src/render/svg.js"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "sharp": "^0.34.5"
+  }
 }
