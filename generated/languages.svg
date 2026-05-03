@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="560" height="324" viewBox="0 0 560 324" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Eric Lam&apos;s Top Languages">
+  <title>Eric Lam&apos;s Top Languages</title>
+  <style>
+    .title { font: 700 20px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill: #24292f; }
+    .subtitle { font: 500 12px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill: #57606a; }
+    .label { font: 600 13px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill: #57606a; }
+    .value { font: 700 18px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill: #0969da; }
+    .small { font: 500 12px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill: #57606a; }
+    .repo { font: 700 14px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill: #0969da; }
+    .desc { font: 500 12px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill: #57606a; }
+  </style>
+  <rect x="0.5" y="0.5" width="559" height="323" rx="12" fill="#ffffff" stroke="#d0d7de"/>
+  
+    <text x="28" y="38" class="title" >Eric Lam&apos;s Top Languages</text>
+    <text x="28" y="60" class="subtitle" >Detailed language bytes from 110 selected repositories</text>
+    
+            <text x="28" y="93" class="label" >HTML</text>
+            
+    <rect x="185" y="83" width="290" height="8" rx="4" fill="#eaeef2"/>
+    <rect x="185" y="83" width="220.13" height="8" rx="4" fill="#0969da"/>
+            <text x="490" y="93" class="small" >75.9%</text>
+          
+
+            <text x="28" y="122" class="label" >Jupyter Notebook</text>
+            
+    <rect x="185" y="112" width="290" height="8" rx="4" fill="#eaeef2"/>
+    <rect x="185" y="112" width="28.69" height="8" rx="4" fill="#0969da"/>
+            <text x="490" y="122" class="small" >9.9%</text>
+          
+
+            <text x="28" y="151" class="label" >Python</text>
+            
+    <rect x="185" y="141" width="290" height="8" rx="4" fill="#eaeef2"/>
+    <rect x="185" y="141" width="24.55" height="8" rx="4" fill="#0969da"/>
+            <text x="490" y="151" class="small" >8.5%</text>
+          
+
+            <text x="28" y="180" class="label" >JavaScript</text>
+            
+    <rect x="185" y="170" width="290" height="8" rx="4" fill="#eaeef2"/>
+    <rect x="185" y="170" width="5.95" height="8" rx="4" fill="#0969da"/>
+            <text x="490" y="180" class="small" >2.1%</text>
+          
+
+            <text x="28" y="209" class="label" >CSS</text>
+            
+    <rect x="185" y="199" width="290" height="8" rx="4" fill="#eaeef2"/>
+    <rect x="185" y="199" width="3.94" height="8" rx="4" fill="#0969da"/>
+            <text x="490" y="209" class="small" >1.4%</text>
+          
+
+            <text x="28" y="238" class="label" >Rust</text>
+            
+    <rect x="185" y="228" width="290" height="8" rx="4" fill="#eaeef2"/>
+    <rect x="185" y="228" width="2.67" height="8" rx="4" fill="#0969da"/>
+            <text x="490" y="238" class="small" >0.9%</text>
+          
+
+            <text x="28" y="267" class="label" >SCSS</text>
+            
+    <rect x="185" y="257" width="290" height="8" rx="4" fill="#eaeef2"/>
+    <rect x="185" y="257" width="2.56" height="8" rx="4" fill="#0969da"/>
+            <text x="490" y="267" class="small" >0.9%</text>
+          
+
+            <text x="28" y="296" class="label" >Java</text>
+            
+    <rect x="185" y="286" width="290" height="8" rx="4" fill="#eaeef2"/>
+    <rect x="185" y="286" width="2.00" height="8" rx="4" fill="#0969da"/>
+            <text x="490" y="296" class="small" >0.2%</text>
+          
+  
+</svg>

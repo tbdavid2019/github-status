@@ -1,0 +1,16 @@
+{
+  "name": "github-status",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Refactored static GitHub Actions version inspired by GitHub README Stats. Fork it to get daily updated GitHub profile status cards.",
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "generate": "node src/index.js",
+    "test": "node --test",
+    "check": "node --check src/index.js && node --check src/env.js && node --check src/github.js && node --check src/http.js && node --check src/stats.js && node --check src/render/cards.js && node --check src/render/svg.js"
+  },
+  "license": "MIT"
+}
