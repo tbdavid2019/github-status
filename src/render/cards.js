@@ -78,7 +78,7 @@ function statRow({ name, label, value, x, y, index, animationProgress }) {
 
 export function renderStatsCard(stats, options = {}) {
   const width = 560;
-  const height = 260;
+  const height = 286;
   const animationProgress = options.animationProgress == null ? 1 : clamp(options.animationProgress);
   const ownerName = stats.owner.displayName || stats.owner.login;
   const title = `${ownerName}'s GitHub Stats`;
@@ -88,7 +88,9 @@ export function renderStatsCard(stats, options = {}) {
   const contributionTotal = stats.contributions?.totalContributions || 0;
   const grade = profileGrade(stats);
   const ringProgress = grade.progress * easeOutCubic((animationProgress - 0.08) / 0.74);
-  const radius = 43;
+  const ringX = 436;
+  const ringY = 128;
+  const radius = 40;
   const circumference = 2 * Math.PI * radius;
   const dashOffset = circumference * (1 - ringProgress);
 
@@ -105,17 +107,17 @@ export function renderStatsCard(stats, options = {}) {
     ${text(28, 38, title, "title")}
     ${text(28, 60, subtitle, "subtitle")}
 
-    ${rows.map((row, index) => statRow({ ...row, x: 32, y: 92 + index * 25, index, animationProgress })).join("\n")}
+    ${rows.map((row, index) => statRow({ ...row, x: 32, y: 94 + index * 26, index, animationProgress })).join("\n")}
 
-    <circle cx="440" cy="139" r="${radius}" stroke="#d8dee4" stroke-width="8"/>
-    <circle cx="440" cy="139" r="${radius}" stroke="#0969da" stroke-width="8" stroke-linecap="round"
+    <circle cx="${ringX}" cy="${ringY}" r="${radius}" stroke="#d8dee4" stroke-width="8"/>
+    <circle cx="${ringX}" cy="${ringY}" r="${radius}" stroke="#0969da" stroke-width="8" stroke-linecap="round"
       stroke-dasharray="${circumference.toFixed(2)}" stroke-dashoffset="${dashOffset.toFixed(2)}"
-      transform="rotate(-90 440 139)"/>
-    ${text(440, 148, grade.label, "grade", 'text-anchor="middle"')}
-    ${text(440, 176, "PROFILE GRADE", "grade-caption", 'text-anchor="middle"')}
+      transform="rotate(-90 ${ringX} ${ringY})"/>
+    ${text(ringX, ringY + 9, grade.label, "grade", 'text-anchor="middle"')}
+    ${text(ringX, ringY + radius + 29, "PROFILE GRADE", "grade-caption", 'text-anchor="middle"')}
 
-    ${text(342, 220, `Latest push ${latestPush}`, "footer")}
-    ${text(28, 238, `Source repos: ${formatNumber(stats.repositoryPolicy.sourceRepoCount)} · forked repos: ${formatNumber(stats.repositoryPolicy.forkedRepoCount)} · storage: ${formatBytesFromKB(stats.totals.sizeKB)}`, "footer")}
+    ${text(328, 244, `Latest push ${latestPush}`, "footer")}
+    ${text(28, 264, `Source repos: ${formatNumber(stats.repositoryPolicy.sourceRepoCount)} · forked repos: ${formatNumber(stats.repositoryPolicy.forkedRepoCount)} · storage: ${formatBytesFromKB(stats.totals.sizeKB)}`, "footer")}
   `;
 
   return svgDocument({ width, height, children, label: title });
