@@ -17,10 +17,10 @@
 
     
     <text x="28" y="105" class="label" >Selected repos</text>
-    <text x="28" y="130" class="value" >110</text>
+    <text x="28" y="130" class="value" >111</text>
     
     <text x="190" y="105" class="label" >Source repos</text>
-    <text x="190" y="130" class="value" >110</text>
+    <text x="190" y="130" class="value" >111</text>
     
     <text x="352" y="105" class="label" >Forked repos</text>
     <text x="352" y="130" class="value" >82</text>
@@ -40,7 +40,7 @@
     <text x="28" y="260" class="value" >435</text>
     
     <text x="190" y="235" class="label" >Contributions 2026</text>
-    <text x="190" y="260" class="value" >481</text>
+    <text x="190" y="260" class="value" >484</text>
     
     <text x="352" y="235" class="label" >Latest push</text>
     <text x="352" y="260" class="value" >2026-05-03</text>
