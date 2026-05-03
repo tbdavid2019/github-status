@@ -9,6 +9,14 @@ Instead, it always uses the current repository owner by default.
 In a fork, the repository owner is the forker.
 Therefore, each fork automatically generates cards for the fork owner.
 
+## Demo
+
+![voidful's animated GitHub status](https://raw.githubusercontent.com/voidful/github-status/main/generated/status.gif)
+
+```md
+![GitHub status](https://raw.githubusercontent.com/voidful/github-status/main/generated/status.gif)
+```
+
 ## Generated files
 
 The workflow writes these files every day:
