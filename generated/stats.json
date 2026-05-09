@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-08T19:49:42.312Z",
+  "generatedAt": "2026-05-09T19:37:42.074Z",
   "owner": {
     "login": "voidful",
     "id": 10904842,
@@ -14,78 +14,78 @@
     "createdAt": "2015-02-08T05:15:03Z",
     "followers": 437,
     "following": 333,
-    "publicRepos": 194,
+    "publicRepos": 196,
     "publicGists": 4
   },
   "repositoryPolicy": {
     "includeForks": false,
     "includeArchived": true,
-    "selectedRepoCount": 112,
-    "allOwnedRepoCount": 194,
-    "sourceRepoCount": 112,
+    "selectedRepoCount": 114,
+    "allOwnedRepoCount": 196,
+    "sourceRepoCount": 114,
     "forkedRepoCount": 82,
     "archivedRepoCount": 2
   },
   "totals": {
-    "stars": 2908,
+    "stars": 2910,
     "forks": 466,
-    "watchers": 2908,
+    "watchers": 2910,
     "openIssues": 55,
-    "sizeKB": 58945374,
-    "latestPushAt": "2026-05-08T19:18:26.000Z"
+    "sizeKB": 58938792,
+    "latestPushAt": "2026-05-09T19:02:15.000Z"
   },
   "contributions": {
     "year": 2026,
-    "totalContributions": 579,
-    "commits": 374,
+    "totalContributions": 639,
+    "commits": 377,
     "issues": 0,
     "pullRequests": 3,
     "pullRequestReviews": 0,
-    "repositories": 13,
-    "restricted": 189,
+    "repositories": 15,
+    "restricted": 244,
     "from": "2026-01-01T00:00:00.000Z",
-    "to": "2026-05-08T19:49:42.041Z"
+    "to": "2026-05-09T19:37:41.627Z"
   },
   "languages": [
     {
       "name": "HTML",
-      "bytes": 35546167,
-      "percent": 75.84983757315631
+      "bytes": 35614335,
+      "percent": 75.86566599230918
     },
     {
       "name": "Jupyter Notebook",
       "bytes": 4629974,
-      "percent": 9.879624316960442
+      "percent": 9.862771859619887
     },
     {
       "name": "Python",
-      "bytes": 3953806,
-      "percent": 8.436789904682856
+      "bytes": 3965714,
+      "percent": 8.447765029026215
     },
     {
       "name": "JavaScript",
       "bytes": 1057166,
-      "percent": 2.2558232337079653
+      "percent": 2.2519752974308105
     },
     {
       "name": "CSS",
       "bytes": 659857,
-      "percent": 1.4080293459351103
+      "percent": 1.4056275588098768
     },
     {
       "name": "Rust",
       "bytes": 431451,
-      "percent": 0.9206474574537351
+      "percent": 0.9190770362003892
     },
     {
       "name": "SCSS",
       "bytes": 412673,
-      "percent": 0.880578207513264
+      "percent": 0.8790761355517154
     },
     {
       "name": "TypeScript",
       "bytes": 61390,
-      "percent": 0.1309964455131285
+      "percent": 0.13077299450538274
     }
   ],
   "topRepos": [
@@ -137,13 +137,13 @@
       "url": "https://github.com/voidful/tw-institutional-stocker",
       "description": "",
       "language": "Python",
-      "stars": 209,
+      "stars": 210,
       "forks": 84,
       "openIssues": 0,
-      "pushedAt": "2026-05-08T12:28:30Z",
+      "pushedAt": "2026-05-09T12:10:09Z",
       "archived": false,
       "fork": false,
-      "score": 1004
+      "score": 1008
     },
     {
       "name": "tw_stocker",
@@ -151,13 +151,13 @@
       "url": "https://github.com/voidful/tw_stocker",
       "description": "keep tracking and store taiwan stock information - 每天更新台股歷史資料庫",
       "language": "Python",
-      "stars": 159,
+      "stars": 160,
       "forks": 57,
       "openIssues": 0,
       "pushedAt": "2026-05-08T11:02:27Z",
       "archived": false,
       "fork": false,
-      "score": 750
+      "score": 754
     },
     {
       "name": "hung-yi-lee-skill",
