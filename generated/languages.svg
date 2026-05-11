@@ -20,60 +20,60 @@
     <text x="28" y="38" class="title" >Eric Lam&apos;s Top Languages</text>
     <text x="28" y="60" class="subtitle" >Detailed language bytes from 114 selected repositories</text>
     
-            <text x="28" y="93" class="label" >HTML</text>
+            <text x="28" y="93" class="label" >TypeScript</text>
             
     <rect x="185" y="83" width="290" height="8" rx="4" fill="#eaeef2"/>
-    <rect x="185" y="83" width="220.10" height="8" rx="4" fill="#0969da"/>
-            <text x="490" y="93" class="small" >75.9%</text>
+    <rect x="185" y="83" width="199.32" height="8" rx="4" fill="#0969da"/>
+            <text x="490" y="93" class="small" >68.7%</text>
           
 
-            <text x="28" y="122" class="label" >Jupyter Notebook</text>
+            <text x="28" y="122" class="label" >HTML</text>
             
     <rect x="185" y="112" width="290" height="8" rx="4" fill="#eaeef2"/>
-    <rect x="185" y="112" width="28.57" height="8" rx="4" fill="#0969da"/>
-            <text x="490" y="122" class="small" >9.9%</text>
+    <rect x="185" y="112" width="63.18" height="8" rx="4" fill="#0969da"/>
+            <text x="490" y="122" class="small" >21.8%</text>
           
 
-            <text x="28" y="151" class="label" >Python</text>
+            <text x="28" y="151" class="label" >Jupyter Notebook</text>
             
     <rect x="185" y="141" width="290" height="8" rx="4" fill="#eaeef2"/>
-    <rect x="185" y="141" width="24.47" height="8" rx="4" fill="#0969da"/>
-            <text x="490" y="151" class="small" >8.4%</text>
+    <rect x="185" y="141" width="8.45" height="8" rx="4" fill="#0969da"/>
+            <text x="490" y="151" class="small" >2.9%</text>
           
 
-            <text x="28" y="180" class="label" >JavaScript</text>
+            <text x="28" y="180" class="label" >Python</text>
             
     <rect x="185" y="170" width="290" height="8" rx="4" fill="#eaeef2"/>
-    <rect x="185" y="170" width="6.52" height="8" rx="4" fill="#0969da"/>
-            <text x="490" y="180" class="small" >2.2%</text>
+    <rect x="185" y="170" width="6.94" height="8" rx="4" fill="#0969da"/>
+            <text x="490" y="180" class="small" >2.4%</text>
           
 
             <text x="28" y="209" class="label" >CSS</text>
             
     <rect x="185" y="199" width="290" height="8" rx="4" fill="#eaeef2"/>
-    <rect x="185" y="199" width="4.07" height="8" rx="4" fill="#0969da"/>
+    <rect x="185" y="199" width="3.94" height="8" rx="4" fill="#0969da"/>
             <text x="490" y="209" class="small" >1.4%</text>
           
 
-            <text x="28" y="238" class="label" >Rust</text>
+            <text x="28" y="238" class="label" >JavaScript</text>
             
     <rect x="185" y="228" width="290" height="8" rx="4" fill="#eaeef2"/>
-    <rect x="185" y="228" width="2.66" height="8" rx="4" fill="#0969da"/>
-            <text x="490" y="238" class="small" >0.9%</text>
+    <rect x="185" y="228" width="3.38" height="8" rx="4" fill="#0969da"/>
+            <text x="490" y="238" class="small" >1.2%</text>
           
 
-            <text x="28" y="267" class="label" >SCSS</text>
+            <text x="28" y="267" class="label" >Rust</text>
             
     <rect x="185" y="257" width="290" height="8" rx="4" fill="#eaeef2"/>
-    <rect x="185" y="257" width="2.55" height="8" rx="4" fill="#0969da"/>
-            <text x="490" y="267" class="small" >0.9%</text>
+    <rect x="185" y="257" width="2.25" height="8" rx="4" fill="#0969da"/>
+            <text x="490" y="267" class="small" >0.8%</text>
           
 
-            <text x="28" y="296" class="label" >TypeScript</text>
+            <text x="28" y="296" class="label" >SCSS</text>
             
     <rect x="185" y="286" width="290" height="8" rx="4" fill="#eaeef2"/>
     <rect x="185" y="286" width="2.00" height="8" rx="4" fill="#0969da"/>
-            <text x="490" y="296" class="small" >0.1%</text>
+            <text x="490" y="296" class="small" >0.3%</text>
           
   
 </svg>

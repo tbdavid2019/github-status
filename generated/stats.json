@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-10T19:37:44.176Z",
+  "generatedAt": "2026-05-11T20:09:44.302Z",
   "owner": {
     "login": "voidful",
     "id": 10904842,
@@ -27,65 +27,65 @@
     "archivedRepoCount": 2
   },
   "totals": {
-    "stars": 2918,
-    "forks": 469,
-    "watchers": 2918,
+    "stars": 2924,
+    "forks": 470,
+    "watchers": 2924,
     "openIssues": 55,
-    "sizeKB": 58939009,
-    "latestPushAt": "2026-05-10T19:04:44.000Z"
+    "sizeKB": 58994514,
+    "latestPushAt": "2026-05-11T19:47:51.000Z"
   },
   "contributions": {
     "year": 2026,
-    "totalContributions": 753,
-    "commits": 380,
+    "totalContributions": 808,
+    "commits": 399,
     "issues": 0,
     "pullRequests": 3,
     "pullRequestReviews": 0,
     "repositories": 15,
-    "restricted": 355,
+    "restricted": 391,
     "from": "2026-01-01T00:00:00.000Z",
-    "to": "2026-05-10T19:37:43.880Z"
+    "to": "2026-05-11T20:09:43.909Z"
   },
   "languages": [
     {
+      "name": "TypeScript",
+      "bytes": 114783205,
+      "percent": 68.72997845437013
+    },
+    {
       "name": "HTML",
-      "bytes": 35674015,
-      "percent": 75.89526763824936
+      "bytes": 36383471,
+      "percent": 21.785723598894112
     },
     {
       "name": "Jupyter Notebook",
-      "bytes": 4629974,
-      "percent": 9.85011403645303
+      "bytes": 4863669,
+      "percent": 2.912271578225995
     },
     {
       "name": "Python",
-      "bytes": 3966359,
-      "percent": 8.438295433087054
-    },
-    {
-      "name": "JavaScript",
-      "bytes": 1057166,
-      "percent": 2.2490851256315705
+      "bytes": 3998901,
+      "percent": 2.394465109866545
     },
     {
       "name": "CSS",
-      "bytes": 659857,
-      "percent": 1.4038235847008615
+      "bytes": 2266453,
+      "percent": 1.3571085234799163
+    },
+    {
+      "name": "JavaScript",
+      "bytes": 1947962,
+      "percent": 1.1664022300991834
     },
     {
       "name": "Rust",
-      "bytes": 431451,
-      "percent": 0.9178974981591034
+      "bytes": 1295900,
+      "percent": 0.7759600289869782
     },
     {
       "name": "SCSS",
-      "bytes": 412673,
-      "percent": 0.8779479344301245
-    },
-    {
-      "name": "TypeScript",
-      "bytes": 61390,
-      "percent": 0.130605161216424
+      "bytes": 419405,
+      "percent": 0.25113165827400535
     }
   ],
   "topRepos": [
@@ -123,13 +123,13 @@
       "url": "https://github.com/voidful/Codec-SUPERB",
       "description": "Audio Codec Speech processing Universal PERformance Benchmark",
       "language": "Python",
-      "stars": 303,
+      "stars": 305,
       "forks": 28,
       "openIssues": 0,
       "pushedAt": "2026-05-05T15:46:08Z",
       "archived": false,
       "fork": false,
-      "score": 1268
+      "score": 1276
     },
     {
       "name": "tw-institutional-stocker",
@@ -140,7 +140,7 @@
       "stars": 210,
       "forks": 84,
       "openIssues": 0,
-      "pushedAt": "2026-05-10T12:12:12Z",
+      "pushedAt": "2026-05-11T14:01:27Z",
       "archived": false,
       "fork": false,
       "score": 1008
@@ -151,13 +151,13 @@
       "url": "https://github.com/voidful/tw_stocker",
       "description": "keep tracking and store taiwan stock information - 每天更新台股歷史資料庫",
       "language": "Python",
-      "stars": 160,
-      "forks": 57,
+      "stars": 162,
+      "forks": 58,
       "openIssues": 0,
-      "pushedAt": "2026-05-08T11:02:27Z",
+      "pushedAt": "2026-05-11T12:42:26Z",
       "archived": false,
       "fork": false,
-      "score": 754
+      "score": 764
     },
     {
       "name": "hung-yi-lee-skill",
