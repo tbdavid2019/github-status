@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-13T20:14:49.693Z",
+  "generatedAt": "2026-05-14T20:10:10.975Z",
   "owner": {
     "login": "voidful",
     "id": 10904842,
@@ -31,61 +31,61 @@
     "forks": 472,
     "watchers": 2931,
     "openIssues": 55,
-    "sizeKB": 58984782,
-    "latestPushAt": "2026-05-13T18:02:11.000Z"
+    "sizeKB": 58985185,
+    "latestPushAt": "2026-05-14T19:46:20.000Z"
   },
   "contributions": {
     "year": 2026,
-    "totalContributions": 912,
-    "commits": 409,
+    "totalContributions": 934,
+    "commits": 411,
     "issues": 0,
     "pullRequests": 4,
     "pullRequestReviews": 0,
     "repositories": 16,
-    "restricted": 483,
+    "restricted": 503,
     "from": "2026-01-01T00:00:00.000Z",
-    "to": "2026-05-13T20:14:49.325Z"
+    "to": "2026-05-14T20:10:10.498Z"
   },
   "languages": [
     {
       "name": "TypeScript",
       "bytes": 114793126,
-      "percent": 68.72954791821839
+      "percent": 68.72935657069931
     },
     {
       "name": "HTML",
-      "bytes": 36383522,
-      "percent": 21.783734844302028
+      "bytes": 36383987,
+      "percent": 21.783952603457184
     },
     {
       "name": "Jupyter Notebook",
       "bytes": 4863669,
-      "percent": 2.9120016436685705
+      "percent": 2.9119935364671274
     },
     {
       "name": "Python",
       "bytes": 3998901,
-      "percent": 2.394243170098107
+      "percent": 2.3942365043698355
     },
     {
       "name": "CSS",
       "bytes": 2266453,
-      "percent": 1.3569827349060066
+      "percent": 1.3569789569780613
     },
     {
       "name": "JavaScript",
       "bytes": 1953471,
-      "percent": 1.1695924954718107
+      "percent": 1.1695892392504457
     },
     {
       "name": "Rust",
       "bytes": 1295900,
-      "percent": 0.7758881062897374
+      "percent": 0.7758859461669267
     },
     {
       "name": "SCSS",
       "bytes": 419405,
-      "percent": 0.2511083812164884
+      "percent": 0.2511076821144686
     }
   ],
   "topRepos": [
@@ -140,7 +140,7 @@
       "stars": 210,
       "forks": 84,
       "openIssues": 0,
-      "pushedAt": "2026-05-13T13:41:51Z",
+      "pushedAt": "2026-05-14T13:14:54Z",
       "archived": false,
       "fork": false,
       "score": 1008
@@ -154,7 +154,7 @@
       "stars": 164,
       "forks": 58,
       "openIssues": 0,
-      "pushedAt": "2026-05-13T12:11:15Z",
+      "pushedAt": "2026-05-14T11:53:45Z",
       "archived": false,
       "fork": false,
       "score": 772
@@ -165,13 +165,13 @@
       "url": "https://github.com/voidful/hung-yi-lee-skill",
       "description": "一個 Karpathy 風格的 LLM wiki + skill，用於以李宏毅老師的教學風格回答 AI 相關問題。",
       "language": "HTML",
-      "stars": 94,
+      "stars": 95,
       "forks": 3,
       "openIssues": 0,
       "pushedAt": "2026-04-09T15:57:07Z",
       "archived": false,
       "fork": false,
-      "score": 382
+      "score": 386
     }
   ]
 }
