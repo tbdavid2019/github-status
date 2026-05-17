@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-16T19:37:04.858Z",
+  "generatedAt": "2026-05-17T19:41:59.890Z",
   "owner": {
     "login": "voidful",
     "id": 10904842,
@@ -27,24 +27,24 @@
     "archivedRepoCount": 2
   },
   "totals": {
-    "stars": 2936,
-    "forks": 472,
-    "watchers": 2936,
+    "stars": 2937,
+    "forks": 471,
+    "watchers": 2937,
     "openIssues": 55,
-    "sizeKB": 58985792,
-    "latestPushAt": "2026-05-16T19:05:40.000Z"
+    "sizeKB": 58985958,
+    "latestPushAt": "2026-05-17T19:10:08.000Z"
   },
   "contributions": {
     "year": 2026,
-    "totalContributions": 981,
-    "commits": 414,
+    "totalContributions": 1009,
+    "commits": 415,
     "issues": 0,
     "pullRequests": 4,
     "pullRequestReviews": 0,
     "repositories": 16,
-    "restricted": 547,
+    "restricted": 574,
     "from": "2026-01-01T00:00:00.000Z",
-    "to": "2026-05-16T19:37:04.542Z"
+    "to": "2026-05-17T19:41:59.555Z"
   },
   "languages": [
     {
@@ -140,7 +140,7 @@
       "stars": 210,
       "forks": 84,
       "openIssues": 0,
-      "pushedAt": "2026-05-16T12:15:45Z",
+      "pushedAt": "2026-05-17T12:15:47Z",
       "archived": false,
       "fork": false,
       "score": 1008
@@ -152,12 +152,12 @@
       "description": "keep tracking and store taiwan stock information - 每天更新台股歷史資料庫",
       "language": "Python",
       "stars": 164,
-      "forks": 58,
+      "forks": 57,
       "openIssues": 0,
       "pushedAt": "2026-05-15T12:00:27Z",
       "archived": false,
       "fork": false,
-      "score": 772
+      "score": 770
     },
     {
       "name": "hung-yi-lee-skill",
@@ -165,13 +165,13 @@
       "url": "https://github.com/voidful/hung-yi-lee-skill",
       "description": "一個 Karpathy 風格的 LLM wiki + skill，用於以李宏毅老師的教學風格回答 AI 相關問題。",
       "language": "HTML",
-      "stars": 95,
+      "stars": 96,
       "forks": 3,
       "openIssues": 0,
       "pushedAt": "2026-04-09T15:57:07Z",
       "archived": false,
       "fork": false,
-      "score": 386
+      "score": 390
     }
   ]
 }
