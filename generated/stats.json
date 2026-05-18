@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-17T19:41:59.890Z",
+  "generatedAt": "2026-05-18T20:08:06.606Z",
   "owner": {
     "login": "voidful",
     "id": 10904842,
@@ -27,65 +27,65 @@
     "archivedRepoCount": 2
   },
   "totals": {
-    "stars": 2937,
-    "forks": 471,
-    "watchers": 2937,
+    "stars": 2939,
+    "forks": 472,
+    "watchers": 2939,
     "openIssues": 55,
-    "sizeKB": 58985958,
-    "latestPushAt": "2026-05-17T19:10:08.000Z"
+    "sizeKB": 58986261,
+    "latestPushAt": "2026-05-18T18:52:06.000Z"
   },
   "contributions": {
     "year": 2026,
-    "totalContributions": 1009,
-    "commits": 415,
+    "totalContributions": 1014,
+    "commits": 418,
     "issues": 0,
     "pullRequests": 4,
     "pullRequestReviews": 0,
     "repositories": 16,
-    "restricted": 574,
+    "restricted": 576,
     "from": "2026-01-01T00:00:00.000Z",
-    "to": "2026-05-17T19:41:59.555Z"
+    "to": "2026-05-18T20:08:06.335Z"
   },
   "languages": [
     {
       "name": "TypeScript",
       "bytes": 114793126,
-      "percent": 68.72932653129308
+      "percent": 68.72183601689915
     },
     {
       "name": "HTML",
-      "bytes": 36384060,
-      "percent": 21.783986789192927
+      "bytes": 36402265,
+      "percent": 21.79251121686247
     },
     {
       "name": "Jupyter Notebook",
       "bytes": 4863669,
-      "percent": 2.911992263727775
+      "percent": 2.911674898185766
     },
     {
       "name": "Python",
       "bytes": 3998901,
-      "percent": 2.3942354579255416
+      "percent": 2.3939745204762
     },
     {
       "name": "CSS",
       "bytes": 2266453,
-      "percent": 1.3569783638859072
+      "percent": 1.3568304726365679
     },
     {
       "name": "JavaScript",
       "bytes": 1953471,
-      "percent": 1.1695887280603512
+      "percent": 1.1694612596033667
     },
     {
       "name": "Rust",
       "bytes": 1295900,
-      "percent": 0.775885607051965
+      "percent": 0.7758010466088326
     },
     {
       "name": "SCSS",
       "bytes": 419405,
-      "percent": 0.2511075723633223
+      "percent": 0.2510802052264661
     }
   ],
   "topRepos": [
@@ -137,13 +137,13 @@
       "url": "https://github.com/voidful/tw-institutional-stocker",
       "description": "",
       "language": "Python",
-      "stars": 210,
-      "forks": 84,
+      "stars": 211,
+      "forks": 85,
       "openIssues": 0,
-      "pushedAt": "2026-05-17T12:15:47Z",
+      "pushedAt": "2026-05-18T14:50:37Z",
       "archived": false,
       "fork": false,
-      "score": 1008
+      "score": 1014
     },
     {
       "name": "tw_stocker",
@@ -154,7 +154,7 @@
       "stars": 164,
       "forks": 57,
       "openIssues": 0,
-      "pushedAt": "2026-05-15T12:00:27Z",
+      "pushedAt": "2026-05-18T13:08:29Z",
       "archived": false,
       "fork": false,
       "score": 770
