@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-22T20:15:41.035Z",
+  "generatedAt": "2026-05-23T19:41:13.602Z",
   "owner": {
     "login": "voidful",
     "id": 10904842,
@@ -27,24 +27,24 @@
     "archivedRepoCount": 2
   },
   "totals": {
-    "stars": 2952,
-    "forks": 477,
-    "watchers": 2952,
+    "stars": 2959,
+    "forks": 479,
+    "watchers": 2959,
     "openIssues": 55,
-    "sizeKB": 58991938,
-    "latestPushAt": "2026-05-22T19:45:44.000Z"
+    "sizeKB": 58992567,
+    "latestPushAt": "2026-05-23T18:02:32.000Z"
   },
   "contributions": {
     "year": 2026,
-    "totalContributions": 1100,
-    "commits": 429,
+    "totalContributions": 1107,
+    "commits": 431,
     "issues": 0,
     "pullRequests": 4,
     "pullRequestReviews": 0,
     "repositories": 17,
-    "restricted": 650,
+    "restricted": 655,
     "from": "2026-01-01T00:00:00.000Z",
-    "to": "2026-05-22T20:15:40.684Z"
+    "to": "2026-05-23T19:41:13.264Z"
   },
   "languages": [
     {
@@ -123,13 +123,13 @@
       "url": "https://github.com/voidful/Codec-SUPERB",
       "description": "Audio Codec Speech processing Universal PERformance Benchmark",
       "language": "Python",
-      "stars": 305,
+      "stars": 306,
       "forks": 28,
       "openIssues": 0,
       "pushedAt": "2026-05-05T15:46:08Z",
       "archived": false,
       "fork": false,
-      "score": 1276
+      "score": 1280
     },
     {
       "name": "tw-institutional-stocker",
@@ -140,7 +140,7 @@
       "stars": 210,
       "forks": 86,
       "openIssues": 0,
-      "pushedAt": "2026-05-22T13:48:46Z",
+      "pushedAt": "2026-05-23T12:18:24Z",
       "archived": false,
       "fork": false,
       "score": 1012
@@ -151,13 +151,13 @@
       "url": "https://github.com/voidful/tw_stocker",
       "description": "keep tracking and store taiwan stock information - 每天更新台股歷史資料庫",
       "language": "Python",
-      "stars": 168,
-      "forks": 60,
+      "stars": 169,
+      "forks": 61,
       "openIssues": 0,
       "pushedAt": "2026-05-22T12:25:03Z",
       "archived": false,
       "fork": false,
-      "score": 792
+      "score": 798
     },
     {
       "name": "hung-yi-lee-skill",
