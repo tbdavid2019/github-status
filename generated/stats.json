@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-27T20:31:06.940Z",
+  "generatedAt": "2026-05-28T19:36:10.200Z",
   "owner": {
     "login": "voidful",
     "id": 10904842,
@@ -27,65 +27,65 @@
     "archivedRepoCount": 2
   },
   "totals": {
-    "stars": 2977,
+    "stars": 2981,
     "forks": 482,
-    "watchers": 2977,
+    "watchers": 2981,
     "openIssues": 56,
-    "sizeKB": 58994849,
-    "latestPushAt": "2026-05-27T19:25:42.000Z"
+    "sizeKB": 59003248,
+    "latestPushAt": "2026-05-28T19:35:24.000Z"
   },
   "contributions": {
     "year": 2026,
-    "totalContributions": 1126,
-    "commits": 445,
+    "totalContributions": 1128,
+    "commits": 447,
     "issues": 0,
     "pullRequests": 4,
     "pullRequestReviews": 0,
     "repositories": 18,
     "restricted": 659,
     "from": "2026-01-01T00:00:00.000Z",
-    "to": "2026-05-27T20:31:06.610Z"
+    "to": "2026-05-28T19:36:09.805Z"
   },
   "languages": [
     {
       "name": "TypeScript",
       "bytes": 114834459,
-      "percent": 68.25089385704828
+      "percent": 68.22942422650486
     },
     {
       "name": "HTML",
-      "bytes": 36521765,
-      "percent": 21.706403532471562
+      "bytes": 36574709,
+      "percent": 21.731032288156342
     },
     {
       "name": "Jupyter Notebook",
       "bytes": 4863669,
-      "percent": 2.89068072045183
+      "percent": 2.8897714012681566
     },
     {
       "name": "Python",
       "bytes": 4737027,
-      "percent": 2.815412114015113
+      "percent": 2.8145264720183656
     },
     {
       "name": "CSS",
       "bytes": 2277900,
-      "percent": 1.3538506862036095
+      "percent": 1.3534248064473
     },
     {
       "name": "JavaScript",
       "bytes": 1955388,
-      "percent": 1.1621683943958487
+      "percent": 1.1618028119888375
     },
     {
       "name": "Rust",
       "bytes": 1295900,
-      "percent": 0.770207254160085
+      "percent": 0.769964970663794
     },
     {
       "name": "SCSS",
       "bytes": 419405,
-      "percent": 0.2492698305664098
+      "percent": 0.2491914179498792
     }
   ],
   "topRepos": [
@@ -140,7 +140,7 @@
       "stars": 210,
       "forks": 87,
       "openIssues": 0,
-      "pushedAt": "2026-05-27T14:56:01Z",
+      "pushedAt": "2026-05-28T14:54:54Z",
       "archived": false,
       "fork": false,
       "score": 1014
@@ -151,13 +151,13 @@
       "url": "https://github.com/voidful/tw_stocker",
       "description": "keep tracking and store taiwan stock information - 每天更新台股歷史資料庫",
       "language": "Python",
-      "stars": 173,
+      "stars": 174,
       "forks": 62,
       "openIssues": 1,
-      "pushedAt": "2026-05-26T15:54:54Z",
+      "pushedAt": "2026-05-28T18:25:31Z",
       "archived": false,
       "fork": false,
-      "score": 816
+      "score": 820
     },
     {
       "name": "hung-yi-lee-skill",
