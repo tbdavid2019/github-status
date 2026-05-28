@@ -1,7 +1,7 @@
 import assert from "node:assert/strict";
 import test from "node:test";
 import { renderLanguagesCard, renderStatsCard, renderTopReposCard } from "../src/render/cards.js";
-import { renderAnimatedStatusGif } from "../src/render/gif.js";
+import { renderAnimatedStatusGif, statusGifAnimationProgress } from "../src/render/gif.js";
 
 const stats = {
   generatedAt: "2026-05-03T00:00:00.000Z",
@@ -71,4 +71,8 @@ test("renderAnimatedStatusGif returns animated GIF bytes", async () => {
   const gif = await renderAnimatedStatusGif(stats, { frameCount: 4, delay: 30, finalDelay: 60 });
   assert.ok(Buffer.isBuffer(gif));
   assert.equal(gif.subarray(0, 3).toString("ascii"), "GIF");
+});
+
+test("renderAnimatedStatusGif uses completed stats as the first GIF frame", () => {
+  assert.deepEqual(statusGifAnimationProgress(4), [1, 0, 1 / 3, 2 / 3, 1]);
 });
