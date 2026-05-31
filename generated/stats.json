@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-30T19:45:52.685Z",
+  "generatedAt": "2026-05-31T19:45:52.036Z",
   "owner": {
     "login": "voidful",
     "id": 10904842,
@@ -28,64 +28,64 @@
   },
   "totals": {
     "stars": 2986,
-    "forks": 483,
+    "forks": 484,
     "watchers": 2986,
     "openIssues": 56,
-    "sizeKB": 58998241,
-    "latestPushAt": "2026-05-30T19:16:36.000Z"
+    "sizeKB": 58998432,
+    "latestPushAt": "2026-05-31T18:02:34.000Z"
   },
   "contributions": {
     "year": 2026,
-    "totalContributions": 1137,
-    "commits": 456,
+    "totalContributions": 1139,
+    "commits": 458,
     "issues": 0,
     "pullRequests": 4,
     "pullRequestReviews": 0,
     "repositories": 18,
     "restricted": 659,
     "from": "2026-01-01T00:00:00.000Z",
-    "to": "2026-05-30T19:45:52.201Z"
+    "to": "2026-05-31T19:45:51.750Z"
   },
   "languages": [
     {
       "name": "TypeScript",
       "bytes": 114834459,
-      "percent": 68.22857535401727
+      "percent": 68.22718250299705
     },
     {
       "name": "HTML",
-      "bytes": 36574281,
-      "percent": 21.730507627745276
+      "bytes": 36577717,
+      "percent": 21.732105458884757
     },
     {
       "name": "Jupyter Notebook",
       "bytes": 4863669,
-      "percent": 2.8897354483421904
+      "percent": 2.889676455890032
     },
     {
       "name": "Python",
       "bytes": 4739197,
-      "percent": 2.815780754730012
+      "percent": 2.815723272024612
     },
     {
       "name": "CSS",
       "bytes": 2277900,
-      "percent": 1.3534079678898123
+      "percent": 1.3533803387672771
     },
     {
       "name": "JavaScript",
       "bytes": 1955740,
-      "percent": 1.1619974973092855
+      "percent": 1.1619737757323476
     },
     {
       "name": "Rust",
       "bytes": 1295900,
-      "percent": 0.7699553911885543
+      "percent": 0.7699396729481165
     },
     {
       "name": "SCSS",
       "bytes": 419405,
-      "percent": 0.24918831764907445
+      "percent": 0.249183230598661
     }
   ],
   "topRepos": [
@@ -140,7 +140,7 @@
       "stars": 210,
       "forks": 87,
       "openIssues": 0,
-      "pushedAt": "2026-05-30T12:26:24Z",
+      "pushedAt": "2026-05-31T12:34:05Z",
       "archived": false,
       "fork": false,
       "score": 1014
@@ -152,12 +152,12 @@
       "description": "keep tracking and store taiwan stock information - 每天更新台股歷史資料庫",
       "language": "Python",
       "stars": 174,
-      "forks": 63,
+      "forks": 64,
       "openIssues": 1,
       "pushedAt": "2026-05-29T12:55:30Z",
       "archived": false,
       "fork": false,
-      "score": 822
+      "score": 824
     },
     {
       "name": "hung-yi-lee-skill",
