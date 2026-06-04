@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-03T21:32:40.522Z",
+  "generatedAt": "2026-06-04T20:28:02.593Z",
   "owner": {
     "login": "voidful",
     "id": 10904842,
@@ -27,65 +27,65 @@
     "archivedRepoCount": 2
   },
   "totals": {
-    "stars": 2990,
+    "stars": 2991,
     "forks": 484,
-    "watchers": 2990,
+    "watchers": 2991,
     "openIssues": 56,
-    "sizeKB": 59029837,
-    "latestPushAt": "2026-06-03T18:44:30.000Z"
+    "sizeKB": 59035311,
+    "latestPushAt": "2026-06-04T18:19:09.000Z"
   },
   "contributions": {
     "year": 2026,
-    "totalContributions": 1508,
-    "commits": 467,
+    "totalContributions": 1511,
+    "commits": 470,
     "issues": 0,
     "pullRequests": 4,
     "pullRequestReviews": 0,
     "repositories": 18,
     "restricted": 1019,
     "from": "2026-01-01T00:00:00.000Z",
-    "to": "2026-06-03T21:32:40.220Z"
+    "to": "2026-06-04T20:28:02.287Z"
   },
   "languages": [
     {
       "name": "TypeScript",
       "bytes": 114834459,
-      "percent": 68.22694212439302
+      "percent": 68.22671107067033
     },
     {
       "name": "HTML",
-      "bytes": 36578310,
-      "percent": 21.732381213012957
+      "bytes": 36578880,
+      "percent": 21.73264626995562
     },
     {
       "name": "Jupyter Notebook",
       "bytes": 4863669,
-      "percent": 2.8896662749567574
+      "percent": 2.8896564889670975
     },
     {
       "name": "Python",
       "bytes": 4739197,
-      "percent": 2.815713351643839
+      "percent": 2.8157038160992043
     },
     {
       "name": "CSS",
       "bytes": 2277900,
-      "percent": 1.353375570525872
+      "percent": 1.3533709872563595
     },
     {
       "name": "JavaScript",
       "bytes": 1955740,
-      "percent": 1.1619696818562137
+      "percent": 1.1619657467916733
     },
     {
       "name": "Rust",
       "bytes": 1295900,
-      "percent": 0.7699369602899502
+      "percent": 0.7699343528625121
     },
     {
       "name": "SCSS",
       "bytes": 419405,
-      "percent": 0.2491823526741312
+      "percent": 0.24918150880646803
     }
   ],
   "topRepos": [
@@ -95,13 +95,13 @@
       "url": "https://github.com/voidful/awesome-chatgpt-dataset",
       "description": "Unlock the Power of LLM: Explore These Datasets to Train Your Own ChatGPT!",
       "language": "Python",
-      "stars": 764,
+      "stars": 763,
       "forks": 65,
       "openIssues": 0,
       "pushedAt": "2025-10-20T09:50:30Z",
       "archived": false,
       "fork": false,
-      "score": 3186
+      "score": 3182
     },
     {
       "name": "TextRL",
@@ -140,7 +140,7 @@
       "stars": 210,
       "forks": 87,
       "openIssues": 0,
-      "pushedAt": "2026-06-03T16:05:31Z",
+      "pushedAt": "2026-06-04T14:26:13Z",
       "archived": false,
       "fork": false,
       "score": 1014
@@ -151,13 +151,13 @@
       "url": "https://github.com/voidful/tw_stocker",
       "description": "keep tracking and store taiwan stock information - 每天更新台股歷史資料庫",
       "language": "Python",
-      "stars": 176,
+      "stars": 177,
       "forks": 64,
       "openIssues": 1,
-      "pushedAt": "2026-06-03T14:15:49Z",
+      "pushedAt": "2026-06-04T12:28:40Z",
       "archived": false,
       "fork": false,
-      "score": 832
+      "score": 836
     },
     {
       "name": "hung-yi-lee-skill",
