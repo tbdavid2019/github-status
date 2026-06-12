@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-11T20:39:10.094Z",
+  "generatedAt": "2026-06-12T20:30:41.622Z",
   "owner": {
     "login": "voidful",
     "id": 10904842,
@@ -14,78 +14,78 @@
     "createdAt": "2015-02-08T05:15:03Z",
     "followers": 451,
     "following": 336,
-    "publicRepos": 202,
+    "publicRepos": 203,
     "publicGists": 4
   },
   "repositoryPolicy": {
     "includeForks": false,
     "includeArchived": true,
-    "selectedRepoCount": 118,
-    "allOwnedRepoCount": 202,
-    "sourceRepoCount": 118,
+    "selectedRepoCount": 119,
+    "allOwnedRepoCount": 203,
+    "sourceRepoCount": 119,
     "forkedRepoCount": 84,
     "archivedRepoCount": 2
   },
   "totals": {
-    "stars": 3127,
-    "forks": 509,
-    "watchers": 3127,
-    "openIssues": 56,
-    "sizeKB": 59045129,
-    "latestPushAt": "2026-06-11T18:51:29.000Z"
+    "stars": 3152,
+    "forks": 512,
+    "watchers": 3152,
+    "openIssues": 57,
+    "sizeKB": 59044178,
+    "latestPushAt": "2026-06-12T19:05:15.000Z"
   },
   "contributions": {
     "year": 2026,
-    "totalContributions": 1585,
-    "commits": 496,
+    "totalContributions": 1617,
+    "commits": 527,
     "issues": 0,
     "pullRequests": 5,
     "pullRequestReviews": 0,
-    "repositories": 21,
+    "repositories": 22,
     "restricted": 1063,
     "from": "2026-01-01T00:00:00.000Z",
-    "to": "2026-06-11T20:39:09.722Z"
+    "to": "2026-06-12T20:30:41.169Z"
   },
   "languages": [
     {
       "name": "TypeScript",
       "bytes": 114834459,
-      "percent": 68.08516639186519
+      "percent": 68.04127275599791
     },
     {
       "name": "HTML",
-      "bytes": 36594158,
-      "percent": 21.696617531852564
+      "bytes": 36676150,
+      "percent": 21.731211585103498
     },
     {
       "name": "Jupyter Notebook",
       "bytes": 4863669,
-      "percent": 2.8836615422201497
+      "percent": 2.8818024825099897
     },
     {
       "name": "Python",
-      "bytes": 4792041,
-      "percent": 2.8411934160079944
+      "bytes": 4798905,
+      "percent": 2.843428765882218
     },
     {
       "name": "CSS",
       "bytes": 2277900,
-      "percent": 1.3505632531784706
+      "percent": 1.3496925623247604
     },
     {
       "name": "JavaScript",
       "bytes": 1955740,
-      "percent": 1.159555106357286
+      "percent": 1.1588075560125672
     },
     {
       "name": "Rust",
       "bytes": 1295900,
-      "percent": 0.7683370296299135
+      "percent": 0.7678416925750283
     },
     {
       "name": "Swift",
-      "bytes": 572226,
-      "percent": 0.3392718767783061
+      "bytes": 583639,
+      "percent": 0.3458155394805131
     }
   ],
   "topRepos": [
@@ -132,6 +132,20 @@
       "score": 1280
     },
     {
+      "name": "hung-yi-lee-skill",
+      "fullName": "voidful/hung-yi-lee-skill",
+      "url": "https://github.com/voidful/hung-yi-lee-skill",
+      "description": "一個 Karpathy 風格的 LLM wiki + skill，用於以李宏毅老師的教學風格回答 AI 相關問題。",
+      "language": "HTML",
+      "stars": 243,
+      "forks": 28,
+      "openIssues": 0,
+      "pushedAt": "2026-06-11T00:00:55Z",
+      "archived": false,
+      "fork": false,
+      "score": 1028
+    },
+    {
       "name": "tw-institutional-stocker",
       "fullName": "voidful/tw-institutional-stocker",
       "url": "https://github.com/voidful/tw-institutional-stocker",
@@ -140,24 +154,10 @@
       "stars": 211,
       "forks": 89,
       "openIssues": 0,
-      "pushedAt": "2026-06-11T15:07:51Z",
+      "pushedAt": "2026-06-12T14:30:10Z",
       "archived": false,
       "fork": false,
       "score": 1022
-    },
-    {
-      "name": "hung-yi-lee-skill",
-      "fullName": "voidful/hung-yi-lee-skill",
-      "url": "https://github.com/voidful/hung-yi-lee-skill",
-      "description": "一個 Karpathy 風格的 LLM wiki + skill，用於以李宏毅老師的教學風格回答 AI 相關問題。",
-      "language": "HTML",
-      "stars": 220,
-      "forks": 25,
-      "openIssues": 0,
-      "pushedAt": "2026-06-11T00:00:55Z",
-      "archived": false,
-      "fork": false,
-      "score": 930
     },
     {
       "name": "tw_stocker",
@@ -168,7 +168,7 @@
       "stars": 179,
       "forks": 65,
       "openIssues": 1,
-      "pushedAt": "2026-06-11T13:04:42Z",
+      "pushedAt": "2026-06-12T12:39:45Z",
       "archived": false,
       "fork": false,
       "score": 846
