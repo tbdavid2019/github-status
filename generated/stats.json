@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-15T21:28:08.657Z",
+  "generatedAt": "2026-06-16T21:23:02.949Z",
   "owner": {
     "login": "voidful",
     "id": 10904842,
@@ -12,80 +12,80 @@
     "profileUrl": "https://github.com/voidful",
     "avatarUrl": "https://avatars.githubusercontent.com/u/10904842?v=4",
     "createdAt": "2015-02-08T05:15:03Z",
-    "followers": 464,
+    "followers": 465,
     "following": 336,
-    "publicRepos": 205,
+    "publicRepos": 207,
     "publicGists": 4
   },
   "repositoryPolicy": {
     "includeForks": false,
     "includeArchived": true,
-    "selectedRepoCount": 121,
-    "allOwnedRepoCount": 205,
-    "sourceRepoCount": 121,
+    "selectedRepoCount": 123,
+    "allOwnedRepoCount": 207,
+    "sourceRepoCount": 123,
     "forkedRepoCount": 84,
     "archivedRepoCount": 2
   },
   "totals": {
-    "stars": 3425,
-    "forks": 531,
-    "watchers": 3425,
-    "openIssues": 56,
-    "sizeKB": 59286620,
-    "latestPushAt": "2026-06-15T18:26:36.000Z"
+    "stars": 3461,
+    "forks": 532,
+    "watchers": 3461,
+    "openIssues": 57,
+    "sizeKB": 59351360,
+    "latestPushAt": "2026-06-16T19:36:23.000Z"
   },
   "contributions": {
     "year": 2026,
-    "totalContributions": 1686,
-    "commits": 976,
+    "totalContributions": 1713,
+    "commits": 993,
     "issues": 0,
-    "pullRequests": 6,
+    "pullRequests": 7,
     "pullRequestReviews": 0,
-    "repositories": 24,
-    "restricted": 680,
+    "repositories": 26,
+    "restricted": 687,
     "from": "2026-01-01T00:00:00.000Z",
-    "to": "2026-06-15T21:28:08.268Z"
+    "to": "2026-06-16T21:23:02.540Z"
   },
   "languages": [
     {
       "name": "TypeScript",
-      "bytes": 114944039,
-      "percent": 65.0797505804005
-    },
-    {
-      "name": "HTML",
-      "bytes": 36693773,
-      "percent": 20.775514898113457
+      "bytes": 114994647,
+      "percent": 78.17098450150024
     },
     {
       "name": "Python",
-      "bytes": 12036663,
-      "percent": 6.814994780723994
+      "bytes": 16205596,
+      "percent": 11.0162292489456
     },
     {
       "name": "Jupyter Notebook",
       "bytes": 4863669,
-      "percent": 2.7537431969449577
+      "percent": 3.3062216715133457
+    },
+    {
+      "name": "HTML",
+      "bytes": 2958300,
+      "percent": 2.010991202493001
     },
     {
       "name": "CSS",
-      "bytes": 2224914,
-      "percent": 1.2597160274039196
+      "bytes": 2165018,
+      "percent": 1.4717344932018361
     },
     {
       "name": "JavaScript",
-      "bytes": 2004980,
-      "percent": 1.1351923897392486
+      "bytes": 1988162,
+      "percent": 1.3515114393844065
     },
     {
       "name": "Rust",
       "bytes": 1364076,
-      "percent": 0.7723212671577548
+      "percent": 0.9272706742155437
     },
     {
       "name": "Swift",
-      "bytes": 652585,
-      "percent": 0.36948474581192214
+      "bytes": 657897,
+      "percent": 0.44722478421611667
     }
   ],
   "topRepos": [
@@ -123,13 +123,13 @@
       "url": "https://github.com/voidful/hung-yi-lee-skill",
       "description": "一個 Karpathy 風格的 LLM wiki + skill，用於以李宏毅老師的教學風格回答 AI 相關問題。",
       "language": "HTML",
-      "stars": 514,
-      "forks": 42,
+      "stars": 546,
+      "forks": 43,
       "openIssues": 0,
       "pushedAt": "2026-06-11T00:00:55Z",
       "archived": false,
       "fork": false,
-      "score": 2140
+      "score": 2270
     },
     {
       "name": "Codec-SUPERB",
@@ -154,7 +154,7 @@
       "stars": 211,
       "forks": 91,
       "openIssues": 0,
-      "pushedAt": "2026-06-15T16:27:28Z",
+      "pushedAt": "2026-06-16T16:07:48Z",
       "archived": false,
       "fork": false,
       "score": 1026
@@ -165,13 +165,13 @@
       "url": "https://github.com/voidful/tw_stocker",
       "description": "keep tracking and store taiwan stock information - 每天更新台股歷史資料庫",
       "language": "Python",
-      "stars": 179,
+      "stars": 180,
       "forks": 67,
-      "openIssues": 0,
-      "pushedAt": "2026-06-15T15:35:02Z",
+      "openIssues": 1,
+      "pushedAt": "2026-06-16T14:36:34Z",
       "archived": false,
       "fork": false,
-      "score": 850
+      "score": 854
     }
   ]
 }
