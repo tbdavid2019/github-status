@@ -25,14 +25,14 @@
             <text x="28" y="139" class="small" >Python · ★ 762 · ⑂ 65 · active</text>
           
 
-            <text x="28" y="155" class="repo" >TextRL</text>
-            <text x="28" y="176" class="desc" >Implementation of ChatGPT RLHF (Reinforcement Learning with Human Feedb…</text>
-            <text x="28" y="194" class="small" >Python · ★ 564 · ⑂ 61 · active</text>
+            <text x="28" y="155" class="repo" >hung-yi-lee-skill</text>
+            <text x="28" y="176" class="desc" >蒸餾李宏毅老師的skill，結合Karpathy的LLM，Fable 5加持 以及 本人親自訪談</text>
+            <text x="28" y="194" class="small" >HTML · ★ 601 · ⑂ 57 · active</text>
           
 
-            <text x="28" y="210" class="repo" >hung-yi-lee-skill</text>
-            <text x="28" y="231" class="desc" >一個 Karpathy 風格的 LLM wiki + skill，用於以李宏毅老師的教學風格回答 AI 相關問題。</text>
-            <text x="28" y="249" class="small" >HTML · ★ 546 · ⑂ 43 · active</text>
+            <text x="28" y="210" class="repo" >TextRL</text>
+            <text x="28" y="231" class="desc" >Implementation of ChatGPT RLHF (Reinforcement Learning with Human Feedb…</text>
+            <text x="28" y="249" class="small" >Python · ★ 564 · ⑂ 61 · active</text>
           
 
             <text x="28" y="265" class="repo" >Codec-SUPERB</text>

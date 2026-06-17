@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-16T21:23:02.949Z",
+  "generatedAt": "2026-06-17T20:33:25.665Z",
   "owner": {
     "login": "voidful",
     "id": 10904842,
@@ -12,7 +12,7 @@
     "profileUrl": "https://github.com/voidful",
     "avatarUrl": "https://avatars.githubusercontent.com/u/10904842?v=4",
     "createdAt": "2015-02-08T05:15:03Z",
-    "followers": 465,
+    "followers": 469,
     "following": 336,
     "publicRepos": 207,
     "publicGists": 4
@@ -27,65 +27,65 @@
     "archivedRepoCount": 2
   },
   "totals": {
-    "stars": 3461,
-    "forks": 532,
-    "watchers": 3461,
-    "openIssues": 57,
-    "sizeKB": 59351360,
-    "latestPushAt": "2026-06-16T19:36:23.000Z"
+    "stars": 3516,
+    "forks": 546,
+    "watchers": 3516,
+    "openIssues": 56,
+    "sizeKB": 59357121,
+    "latestPushAt": "2026-06-17T18:17:00.000Z"
   },
   "contributions": {
     "year": 2026,
-    "totalContributions": 1713,
-    "commits": 993,
+    "totalContributions": 1723,
+    "commits": 1000,
     "issues": 0,
     "pullRequests": 7,
     "pullRequestReviews": 0,
     "repositories": 26,
-    "restricted": 687,
+    "restricted": 690,
     "from": "2026-01-01T00:00:00.000Z",
-    "to": "2026-06-16T21:23:02.540Z"
+    "to": "2026-06-17T20:33:25.301Z"
   },
   "languages": [
     {
       "name": "TypeScript",
       "bytes": 114994647,
-      "percent": 78.17098450150024
+      "percent": 78.17043079683653
     },
     {
       "name": "Python",
       "bytes": 16205596,
-      "percent": 11.0162292489456
+      "percent": 11.016151218234452
     },
     {
       "name": "Jupyter Notebook",
       "bytes": 4863669,
-      "percent": 3.3062216715133457
+      "percent": 3.306198252717094
     },
     {
       "name": "HTML",
-      "bytes": 2958300,
-      "percent": 2.010991202493001
+      "bytes": 2959342,
+      "percent": 2.011685283186893
     },
     {
       "name": "CSS",
       "bytes": 2165018,
-      "percent": 1.4717344932018361
+      "percent": 1.4717240685377764
     },
     {
       "name": "JavaScript",
       "bytes": 1988162,
-      "percent": 1.3515114393844065
+      "percent": 1.3515018662903509
     },
     {
       "name": "Rust",
       "bytes": 1364076,
-      "percent": 0.9272706742155437
+      "percent": 0.9272641061250926
     },
     {
       "name": "Swift",
       "bytes": 657897,
-      "percent": 0.44722478421611667
+      "percent": 0.4472216164109479
     }
   ],
   "topRepos": [
@@ -104,6 +104,20 @@
       "score": 3178
     },
     {
+      "name": "hung-yi-lee-skill",
+      "fullName": "voidful/hung-yi-lee-skill",
+      "url": "https://github.com/voidful/hung-yi-lee-skill",
+      "description": "蒸餾李宏毅老師的skill，結合Karpathy的LLM，Fable 5加持 以及 本人親自訪談",
+      "language": "HTML",
+      "stars": 601,
+      "forks": 57,
+      "openIssues": 0,
+      "pushedAt": "2026-06-17T09:20:49Z",
+      "archived": false,
+      "fork": false,
+      "score": 2518
+    },
+    {
       "name": "TextRL",
       "fullName": "voidful/TextRL",
       "url": "https://github.com/voidful/TextRL",
@@ -116,20 +130,6 @@
       "archived": false,
       "fork": false,
       "score": 2378
-    },
-    {
-      "name": "hung-yi-lee-skill",
-      "fullName": "voidful/hung-yi-lee-skill",
-      "url": "https://github.com/voidful/hung-yi-lee-skill",
-      "description": "一個 Karpathy 風格的 LLM wiki + skill，用於以李宏毅老師的教學風格回答 AI 相關問題。",
-      "language": "HTML",
-      "stars": 546,
-      "forks": 43,
-      "openIssues": 0,
-      "pushedAt": "2026-06-11T00:00:55Z",
-      "archived": false,
-      "fork": false,
-      "score": 2270
     },
     {
       "name": "Codec-SUPERB",
@@ -154,7 +154,7 @@
       "stars": 211,
       "forks": 91,
       "openIssues": 0,
-      "pushedAt": "2026-06-16T16:07:48Z",
+      "pushedAt": "2026-06-17T14:33:06Z",
       "archived": false,
       "fork": false,
       "score": 1026
@@ -167,8 +167,8 @@
       "language": "Python",
       "stars": 180,
       "forks": 67,
-      "openIssues": 1,
-      "pushedAt": "2026-06-16T14:36:34Z",
+      "openIssues": 0,
+      "pushedAt": "2026-06-17T13:06:58Z",
       "archived": false,
       "fork": false,
       "score": 854
