@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-19T20:08:16.702Z",
+  "generatedAt": "2026-06-20T20:00:10.422Z",
   "owner": {
     "login": "voidful",
     "id": 10904842,
@@ -27,24 +27,24 @@
     "archivedRepoCount": 2
   },
   "totals": {
-    "stars": 3556,
-    "forks": 554,
-    "watchers": 3556,
+    "stars": 3569,
+    "forks": 556,
+    "watchers": 3569,
     "openIssues": 56,
-    "sizeKB": 59397662,
-    "latestPushAt": "2026-06-19T19:56:06.000Z"
+    "sizeKB": 59397892,
+    "latestPushAt": "2026-06-20T18:11:56.000Z"
   },
   "contributions": {
     "year": 2026,
-    "totalContributions": 1748,
-    "commits": 1007,
+    "totalContributions": 1753,
+    "commits": 1011,
     "issues": 0,
     "pullRequests": 8,
     "pullRequestReviews": 0,
     "repositories": 27,
-    "restricted": 706,
+    "restricted": 707,
     "from": "2026-01-01T00:00:00.000Z",
-    "to": "2026-06-19T20:08:16.412Z"
+    "to": "2026-06-20T20:00:10.044Z"
   },
   "languages": [
     {
@@ -109,13 +109,13 @@
       "url": "https://github.com/voidful/hung-yi-lee-skill",
       "description": "蒸餾李宏毅老師的skill，結合Karpathy的LLM，Fable 5加持 以及 本人親自訪談",
       "language": "HTML",
-      "stars": 640,
-      "forks": 65,
+      "stars": 650,
+      "forks": 67,
       "openIssues": 0,
       "pushedAt": "2026-06-17T09:20:49Z",
       "archived": false,
       "fork": false,
-      "score": 2690
+      "score": 2734
     },
     {
       "name": "TextRL",
@@ -154,7 +154,7 @@
       "stars": 211,
       "forks": 91,
       "openIssues": 0,
-      "pushedAt": "2026-06-19T14:24:44Z",
+      "pushedAt": "2026-06-20T13:02:33Z",
       "archived": false,
       "fork": false,
       "score": 1026
@@ -165,13 +165,13 @@
       "url": "https://github.com/voidful/tw_stocker",
       "description": "keep tracking and store taiwan stock information - 每天更新台股歷史資料庫",
       "language": "Python",
-      "stars": 181,
+      "stars": 183,
       "forks": 67,
       "openIssues": 0,
       "pushedAt": "2026-06-19T13:03:33Z",
       "archived": false,
       "fork": false,
-      "score": 858
+      "score": 866
     }
   ]
 }
