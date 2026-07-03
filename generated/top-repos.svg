@@ -22,7 +22,7 @@
     
             <text x="28" y="100" class="repo" >hung-yi-lee-skill</text>
             <text x="28" y="121" class="desc" >蒸餾李宏毅老師的skill，結合Karpathy的LLM，Fable 5加持 以及 本人親自訪談</text>
-            <text x="28" y="139" class="small" >HTML · ★ 892 · ⑂ 92 · active</text>
+            <text x="28" y="139" class="small" >HTML · ★ 896 · ⑂ 93 · active</text>
           
 
             <text x="28" y="155" class="repo" >awesome-chatgpt-dataset</text>
@@ -37,7 +37,7 @@
 
             <text x="28" y="265" class="repo" >Codec-SUPERB</text>
             <text x="28" y="286" class="desc" >Audio Codec Speech processing Universal PERformance Benchmark</text>
-            <text x="28" y="304" class="small" >Python · ★ 307 · ⑂ 28 · active</text>
+            <text x="28" y="304" class="small" >Python · ★ 308 · ⑂ 28 · active</text>
           
 
             <text x="28" y="320" class="repo" >tw-institutional-stocker</text>
