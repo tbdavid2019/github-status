@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-04T19:41:39.204Z",
+  "generatedAt": "2026-07-05T19:47:43.741Z",
   "owner": {
     "login": "voidful",
     "id": 10904842,
@@ -12,7 +12,7 @@
     "profileUrl": "https://github.com/voidful",
     "avatarUrl": "https://avatars.githubusercontent.com/u/10904842?v=4",
     "createdAt": "2015-02-08T05:15:03Z",
-    "followers": 488,
+    "followers": 486,
     "following": 336,
     "publicRepos": 210,
     "publicGists": 4
@@ -27,12 +27,12 @@
     "archivedRepoCount": 2
   },
   "totals": {
-    "stars": 3841,
+    "stars": 3842,
     "forks": 582,
-    "watchers": 3841,
+    "watchers": 3842,
     "openIssues": 57,
-    "sizeKB": 59532500,
-    "latestPushAt": "2026-07-04T19:13:16.000Z"
+    "sizeKB": 59532744,
+    "latestPushAt": "2026-07-05T18:03:36.000Z"
   },
   "contributions": {
     "year": 2026,
@@ -44,7 +44,7 @@
     "repositories": 29,
     "restricted": 744,
     "from": "2026-01-01T00:00:00.000Z",
-    "to": "2026-07-04T19:41:38.925Z"
+    "to": "2026-07-05T19:47:43.323Z"
   },
   "languages": [
     {
@@ -154,7 +154,7 @@
       "stars": 213,
       "forks": 91,
       "openIssues": 0,
-      "pushedAt": "2026-07-04T12:20:19Z",
+      "pushedAt": "2026-07-05T12:45:23Z",
       "archived": false,
       "fork": false,
       "score": 1034
@@ -165,13 +165,13 @@
       "url": "https://github.com/voidful/tw_stocker",
       "description": "keep tracking and store taiwan stock information - 每天更新台股歷史資料庫",
       "language": "Python",
-      "stars": 187,
+      "stars": 188,
       "forks": 68,
       "openIssues": 0,
       "pushedAt": "2026-07-04T11:25:44Z",
       "archived": false,
       "fork": false,
-      "score": 884
+      "score": 888
     }
   ]
 }
