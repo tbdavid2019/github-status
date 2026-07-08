@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-07T20:18:51.334Z",
+  "generatedAt": "2026-07-08T19:58:36.384Z",
   "owner": {
     "login": "voidful",
     "id": 10904842,
@@ -27,65 +27,65 @@
     "archivedRepoCount": 2
   },
   "totals": {
-    "stars": 3862,
+    "stars": 3871,
     "forks": 585,
-    "watchers": 3862,
+    "watchers": 3871,
     "openIssues": 58,
-    "sizeKB": 59563616,
-    "latestPushAt": "2026-07-07T19:02:44.000Z"
+    "sizeKB": 59593110,
+    "latestPushAt": "2026-07-08T18:17:46.000Z"
   },
   "contributions": {
     "year": 2026,
-    "totalContributions": 1878,
-    "commits": 1093,
+    "totalContributions": 1882,
+    "commits": 1095,
     "issues": 0,
     "pullRequests": 8,
     "pullRequestReviews": 0,
     "repositories": 29,
-    "restricted": 748,
+    "restricted": 750,
     "from": "2026-01-01T00:00:00.000Z",
-    "to": "2026-07-07T20:18:51.012Z"
+    "to": "2026-07-08T19:58:36.051Z"
   },
   "languages": [
     {
       "name": "TypeScript",
       "bytes": 114994647,
-      "percent": 77.50909687419907
+      "percent": 77.50835659860567
     },
     {
       "name": "Python",
       "bytes": 16521882,
-      "percent": 11.13613708020762
+      "percent": 11.13603072094377
     },
     {
       "name": "Jupyter Notebook",
       "bytes": 4863669,
-      "percent": 3.2782273046591373
+      "percent": 3.2781959948934305
     },
     {
       "name": "HTML",
-      "bytes": 3692964,
-      "percent": 2.4891445984344793
+      "bytes": 3694381,
+      "percent": 2.4900759072647394
     },
     {
       "name": "CSS",
       "bytes": 2165018,
-      "percent": 1.459273055522182
+      "percent": 1.4592591182648709
     },
     {
       "name": "JavaScript",
       "bytes": 1988162,
-      "percent": 1.340067951681276
+      "percent": 1.3400551529307019
     },
     {
       "name": "Rust",
       "bytes": 1364076,
-      "percent": 0.9194193085158996
+      "percent": 0.9194105273056722
     },
     {
       "name": "Swift",
       "bytes": 863161,
-      "percent": 0.5817908164632267
+      "percent": 0.5817852598826542
     }
   ],
   "topRepos": [
@@ -95,13 +95,13 @@
       "url": "https://github.com/voidful/hung-yi-lee-skill",
       "description": "蒸餾李宏毅老師的skill，結合Karpathy的LLM，Fable 5加持 以及 本人親自訪談",
       "language": "HTML",
-      "stars": 916,
+      "stars": 923,
       "forks": 94,
       "openIssues": 2,
       "pushedAt": "2026-06-17T09:20:49Z",
       "archived": false,
       "fork": false,
-      "score": 3852
+      "score": 3880
     },
     {
       "name": "awesome-chatgpt-dataset",
@@ -154,7 +154,7 @@
       "stars": 213,
       "forks": 91,
       "openIssues": 0,
-      "pushedAt": "2026-07-07T13:30:48Z",
+      "pushedAt": "2026-07-08T12:55:23Z",
       "archived": false,
       "fork": false,
       "score": 1034
@@ -165,13 +165,13 @@
       "url": "https://github.com/voidful/tw_stocker",
       "description": "keep tracking and store taiwan stock information - 每天更新台股歷史資料庫",
       "language": "Python",
-      "stars": 189,
+      "stars": 191,
       "forks": 69,
       "openIssues": 0,
-      "pushedAt": "2026-07-07T12:35:01Z",
+      "pushedAt": "2026-07-08T11:27:23Z",
       "archived": false,
       "fork": false,
-      "score": 894
+      "score": 902
     }
   ]
 }
