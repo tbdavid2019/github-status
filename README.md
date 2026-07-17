@@ -3,6 +3,8 @@
 `github-status` is a refactored, static GitHub Actions version inspired by GitHub README Stats.
 Fork this repository to get your own GitHub profile status cards that update automatically every day.
 
+[![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](./LICENSE)
+
 It does not run a Vercel API and does not accept a `username` query string.
 This copy is configured to generate cards for `tbdavid2019`.
 
@@ -87,3 +89,7 @@ It uses GraphQL only for the current-year contribution totals of user accounts.
 ## Thanks & Inspiration
 
 This project was inspired by [voidful/github-status](https://github.com/voidful/github-status). Thanks to the author for sharing the original idea and implementation.
+
+## License
+
+This project is licensed under the [GNU Affero General Public License v3.0](./LICENSE).
