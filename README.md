@@ -83,3 +83,7 @@ The generator reads `TARGET_LOGIN` first. If it is not set, it falls back to the
 It avoids `github.actor`, because the actor for scheduled workflows is not the same concept as the repository owner.
 The script uses REST for account, repository, and language data.
 It uses GraphQL only for the current-year contribution totals of user accounts.
+
+## Thanks & Inspiration
+
+This project was inspired by [voidful/github-status](https://github.com/voidful/github-status). Thanks to the author for sharing the original idea and implementation.
