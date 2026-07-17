@@ -26,9 +26,8 @@ jobs:
     runs-on: ubuntu-latest
 
     env:
-      # This is the important part. In a fork, github.repository_owner is the forker.
-      # Do not use github.actor. Scheduled workflow actors can change.
-      TARGET_LOGIN: ${{ github.repository_owner }}
+      # This copy publishes stats for the tbdavid2019 GitHub account.
+      TARGET_LOGIN: tbdavid2019
       GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       OUTPUT_DIR: generated
       INCLUDE_FORKS: "false"

@@ -1,5 +1,7 @@
 import { resolve } from "node:path";
 
+const DEFAULT_TARGET_LOGIN = "tbdavid2019";
+
 function readBoolean(name, fallback) {
   const raw = process.env[name];
   if (raw == null || raw === "") return fallback;
@@ -29,13 +31,8 @@ export function getConfig() {
   const targetLogin =
     process.env.TARGET_LOGIN ||
     process.env.GITHUB_REPOSITORY_OWNER ||
-    readOwnerFromRepository(process.env.GITHUB_REPOSITORY);
-
-  if (!targetLogin) {
-    throw new Error(
-      "No target login was found. Set TARGET_LOGIN or run inside GitHub Actions so GITHUB_REPOSITORY_OWNER is available.",
-    );
-  }
+    readOwnerFromRepository(process.env.GITHUB_REPOSITORY) ||
+    DEFAULT_TARGET_LOGIN;
 
   const token = process.env.GH_TOKEN || process.env.GITHUB_TOKEN || "";
 

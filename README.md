@@ -4,17 +4,16 @@
 Fork this repository to get your own GitHub profile status cards that update automatically every day.
 
 It does not run a Vercel API and does not accept a `username` query string.
-Instead, it always uses the current repository owner by default.
+This copy is configured to generate cards for `tbdavid2019`.
 
-In a fork, the repository owner is the forker.
-Therefore, each fork automatically generates cards for the fork owner.
+When this workflow runs, it generates cards for `tbdavid2019`.
 
 ## Demo
 
-![voidful's animated GitHub status](https://raw.githubusercontent.com/voidful/github-status/main/generated/status.gif)
+![tbdavid2019's animated GitHub status](https://raw.githubusercontent.com/tbdavid2019/github-status/main/generated/status.gif)
 
 ```md
-![GitHub status](https://raw.githubusercontent.com/voidful/github-status/main/generated/status.gif)
+![GitHub status](https://raw.githubusercontent.com/tbdavid2019/github-status/main/generated/status.gif)
 ```
 
 ## Generated files
@@ -56,7 +55,7 @@ Open the Actions tab and run `Update generated GitHub stats` manually.
 ## Local run
 
 ```bash
-export TARGET_LOGIN=your-github-login
+export TARGET_LOGIN=tbdavid2019
 export GITHUB_TOKEN=your-token
 npm ci
 npm run generate
@@ -70,7 +69,7 @@ Private contributions require a user token that has access to those resources.
 
 | Environment variable | Default | Meaning |
 |---|---:|---|
-| `TARGET_LOGIN` | `GITHUB_REPOSITORY_OWNER` | Account to fetch. In Actions this is the fork owner. |
+| `TARGET_LOGIN` | `tbdavid2019` | Account to fetch. Override it for another account. |
 | `OUTPUT_DIR` | `generated` | Output directory. |
 | `INCLUDE_FORKS` | `false` | Include forked repositories in repo stats and language stats. |
 | `INCLUDE_ARCHIVED` | `true` | Include archived repositories. |
@@ -80,7 +79,7 @@ Private contributions require a user token that has access to those resources.
 
 ## Design
 
-The generator reads only the repository owner by default.
+The generator reads `TARGET_LOGIN` first. If it is not set, it falls back to the GitHub Actions repository owner and then `tbdavid2019` for local runs.
 It avoids `github.actor`, because the actor for scheduled workflows is not the same concept as the repository owner.
 The script uses REST for account, repository, and language data.
 It uses GraphQL only for the current-year contribution totals of user accounts.
