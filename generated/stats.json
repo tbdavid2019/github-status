@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-20T20:00:08.289Z",
+  "generatedAt": "2026-07-21T19:55:54.411Z",
   "owner": {
     "login": "tbdavid2019",
     "id": 56015064,
@@ -31,61 +31,61 @@
     "forks": 60,
     "watchers": 200,
     "openIssues": 19,
-    "sizeKB": 1528029,
-    "latestPushAt": "2026-07-20T14:32:09.000Z"
+    "sizeKB": 1529835,
+    "latestPushAt": "2026-07-21T13:27:07.000Z"
   },
   "contributions": {
     "year": 2026,
-    "totalContributions": 1429,
-    "commits": 1168,
+    "totalContributions": 1469,
+    "commits": 1206,
     "issues": 93,
     "pullRequests": 1,
     "pullRequestReviews": 0,
     "repositories": 35,
-    "restricted": 132,
+    "restricted": 134,
     "from": "2026-01-01T00:00:00.000Z",
-    "to": "2026-07-20T20:00:07.674Z"
+    "to": "2026-07-21T19:55:53.977Z"
   },
   "languages": [
     {
       "name": "JavaScript",
-      "bytes": 7007636,
-      "percent": 31.499330964048262
+      "bytes": 7045025,
+      "percent": 31.85114873958964
     },
     {
       "name": "Fluent",
       "bytes": 4572086,
-      "percent": 20.55153123108728
+      "percent": 20.670784168430266
     },
     {
       "name": "Python",
-      "bytes": 2527573,
-      "percent": 11.36144321177532
+      "bytes": 2371533,
+      "percent": 10.721899542421104
     },
     {
       "name": "TypeScript",
-      "bytes": 2335976,
-      "percent": 10.50021450144865
+      "bytes": 2336118,
+      "percent": 10.561785357927427
     },
     {
       "name": "Vue",
       "bytes": 1527898,
-      "percent": 6.867903067640416
+      "percent": 6.907754969914448
     },
     {
       "name": "CSS",
-      "bytes": 1421328,
-      "percent": 6.3888708089959
+      "bytes": 1381665,
+      "percent": 6.246623315500672
     },
     {
       "name": "HTML",
-      "bytes": 988284,
-      "percent": 4.4423375875221645
+      "bytes": 1018394,
+      "percent": 4.6042446647819775
     },
     {
       "name": "Svelte",
       "bytes": 392223,
-      "percent": 1.7630427848581036
+      "percent": 1.7732730702996893
     }
   ],
   "topRepos": [
@@ -112,7 +112,7 @@
       "stars": 31,
       "forks": 7,
       "openIssues": 0,
-      "pushedAt": "2026-07-20T06:39:51Z",
+      "pushedAt": "2026-07-21T06:22:53Z",
       "archived": false,
       "fork": false,
       "score": 138
@@ -151,13 +151,13 @@
       "url": "https://github.com/tbdavid2019/telegram-bot-stock2",
       "description": "美股台股機器人 可以查詢個股資訊 預測個股未來。示範帳號如下，歡迎使用",
       "language": "Python",
-      "stars": 11,
+      "stars": 12,
       "forks": 3,
       "openIssues": 0,
       "pushedAt": "2026-06-26T06:39:13Z",
       "archived": false,
       "fork": false,
-      "score": 50
+      "score": 54
     },
     {
       "name": "cf-notepad",
@@ -168,7 +168,7 @@
       "stars": 7,
       "forks": 2,
       "openIssues": 1,
-      "pushedAt": "2026-07-15T05:26:49Z",
+      "pushedAt": "2026-07-21T13:27:07Z",
       "archived": false,
       "fork": false,
       "score": 32
