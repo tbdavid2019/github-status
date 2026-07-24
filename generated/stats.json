@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-23T19:49:56.745Z",
+  "generatedAt": "2026-07-24T19:50:49.711Z",
   "owner": {
     "login": "tbdavid2019",
     "id": 56015064,
@@ -20,72 +20,72 @@
   "repositoryPolicy": {
     "includeForks": false,
     "includeArchived": true,
-    "selectedRepoCount": 127,
+    "selectedRepoCount": 128,
     "allOwnedRepoCount": 143,
-    "sourceRepoCount": 127,
-    "forkedRepoCount": 16,
+    "sourceRepoCount": 128,
+    "forkedRepoCount": 15,
     "archivedRepoCount": 0
   },
   "totals": {
-    "stars": 200,
+    "stars": 202,
     "forks": 59,
-    "watchers": 200,
+    "watchers": 202,
     "openIssues": 19,
-    "sizeKB": 1529776,
-    "latestPushAt": "2026-07-23T14:56:46.000Z"
+    "sizeKB": 1549989,
+    "latestPushAt": "2026-07-24T10:11:17.000Z"
   },
   "contributions": {
     "year": 2026,
-    "totalContributions": 1481,
-    "commits": 1218,
+    "totalContributions": 1491,
+    "commits": 1228,
     "issues": 93,
     "pullRequests": 1,
     "pullRequestReviews": 0,
     "repositories": 35,
     "restricted": 134,
     "from": "2026-01-01T00:00:00.000Z",
-    "to": "2026-07-23T19:49:56.278Z"
+    "to": "2026-07-24T19:50:49.396Z"
   },
   "languages": [
     {
       "name": "JavaScript",
-      "bytes": 7084039,
-      "percent": 31.728301000488507
+      "bytes": 7347852,
+      "percent": 32.23702994980434
     },
     {
       "name": "Fluent",
       "bytes": 4572086,
-      "percent": 20.477656998799628
+      "percent": 20.058987757929952
     },
     {
       "name": "Python",
       "bytes": 2490891,
-      "percent": 11.156310602949507
+      "percent": 10.928217902143112
     },
     {
       "name": "TypeScript",
-      "bytes": 2337717,
-      "percent": 10.470268250917167
+      "bytes": 2338554,
+      "percent": 10.259873951902506
     },
     {
       "name": "Vue",
       "bytes": 1527898,
-      "percent": 6.843215804154154
+      "percent": 6.703305072862946
     },
     {
       "name": "CSS",
-      "bytes": 1390363,
-      "percent": 6.227218083347961
+      "bytes": 1391114,
+      "percent": 6.1031963737963295
     },
     {
       "name": "HTML",
-      "bytes": 1018512,
-      "percent": 4.561755703012018
+      "bytes": 1228154,
+      "percent": 5.388246426434827
     },
     {
       "name": "Svelte",
       "bytes": 392223,
-      "percent": 1.7567053771604877
+      "percent": 1.7207892317376707
     }
   ],
   "topRepos": [
@@ -109,13 +109,13 @@
       "url": "https://github.com/tbdavid2019/openclaw-docs-skill",
       "description": "自動每日更新, 讓你的LLM有面對openclaw疑難雜症處理的能力。This is an Agent Skill designed for AI coding assistants (like Claude with Antigravity). Once installed, the AI assistant gains deep knowledge of OpenClaw and can help you ",
       "language": "CSS",
-      "stars": 31,
+      "stars": 32,
       "forks": 7,
       "openIssues": 0,
-      "pushedAt": "2026-07-23T06:24:42Z",
+      "pushedAt": "2026-07-24T06:20:05Z",
       "archived": false,
       "fork": false,
-      "score": 138
+      "score": 142
     },
     {
       "name": "fonts-TW",
@@ -123,13 +123,13 @@
       "url": "https://github.com/tbdavid2019/fonts-TW",
       "description": "看電子書專用的字體, 台灣用語簡繁體自轉。只要下載這個字型檔，安裝好字型，將編輯器的字型設定使用888字體，所有的簡體中文自動顯示為繁體。  不需要額外的設定，只要下載字型、安裝字型 & 選擇該字型顯示即可。  連在 Windows 內附的記事本都可以用 ",
       "language": "CSS",
-      "stars": 21,
+      "stars": 22,
       "forks": 2,
       "openIssues": 0,
       "pushedAt": "2026-05-15T02:34:18Z",
       "archived": false,
       "fork": false,
-      "score": 88
+      "score": 92
     },
     {
       "name": "ClawDashboard2",
