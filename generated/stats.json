@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-28T19:56:13.739Z",
+  "generatedAt": "2026-07-29T19:48:21.337Z",
   "owner": {
     "login": "tbdavid2019",
     "id": 56015064,
@@ -31,61 +31,61 @@
     "forks": 60,
     "watchers": 204,
     "openIssues": 19,
-    "sizeKB": 1571397,
-    "latestPushAt": "2026-07-28T10:28:34.000Z"
+    "sizeKB": 1575556,
+    "latestPushAt": "2026-07-29T10:32:49.000Z"
   },
   "contributions": {
     "year": 2026,
-    "totalContributions": 1520,
-    "commits": 1255,
+    "totalContributions": 1562,
+    "commits": 1296,
     "issues": 93,
     "pullRequests": 1,
     "pullRequestReviews": 0,
     "repositories": 36,
-    "restricted": 135,
+    "restricted": 136,
     "from": "2026-01-01T00:00:00.000Z",
-    "to": "2026-07-28T19:56:13.387Z"
+    "to": "2026-07-29T19:48:20.880Z"
   },
   "languages": [
     {
       "name": "JavaScript",
-      "bytes": 7414134,
-      "percent": 32.35827884301735
+      "bytes": 7506262,
+      "percent": 32.416082911797176
     },
     {
       "name": "Fluent",
       "bytes": 4572086,
-      "percent": 19.95443212683448
+      "percent": 19.74473031395215
     },
     {
       "name": "Python",
-      "bytes": 2490891,
-      "percent": 10.871255570180189
+      "bytes": 2613914,
+      "percent": 11.28828875788074
     },
     {
       "name": "TypeScript",
       "bytes": 2342388,
-      "percent": 10.22312842774864
+      "percent": 10.115693219820832
     },
     {
       "name": "Vue",
       "bytes": 1560829,
-      "percent": 6.812088911296711
+      "percent": 6.740500434855254
     },
     {
       "name": "CSS",
-      "bytes": 1411966,
-      "percent": 6.162390583291296
+      "bytes": 1423901,
+      "percent": 6.149171568244075
     },
     {
       "name": "HTML",
       "bytes": 1228532,
-      "percent": 5.361810431746957
+      "percent": 5.30546298168063
     },
     {
       "name": "Svelte",
       "bytes": 392223,
-      "percent": 1.7118197759367169
+      "percent": 1.6938302030909422
     }
   ],
   "topRepos": [
@@ -108,11 +108,11 @@
       "fullName": "tbdavid2019/openclaw-docs-skill",
       "url": "https://github.com/tbdavid2019/openclaw-docs-skill",
       "description": "自動每日更新, 讓你的LLM有面對openclaw疑難雜症處理的能力。This is an Agent Skill designed for AI coding assistants (like Claude with Antigravity). Once installed, the AI assistant gains deep knowledge of OpenClaw and can help you ",
-      "language": "CSS",
+      "language": "Python",
       "stars": 32,
       "forks": 7,
       "openIssues": 0,
-      "pushedAt": "2026-07-28T06:20:28Z",
+      "pushedAt": "2026-07-29T06:25:15Z",
       "archived": false,
       "fork": false,
       "score": 142
@@ -168,7 +168,7 @@
       "stars": 7,
       "forks": 2,
       "openIssues": 1,
-      "pushedAt": "2026-07-28T09:48:38Z",
+      "pushedAt": "2026-07-29T08:43:24Z",
       "archived": false,
       "fork": false,
       "score": 32
