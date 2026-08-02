@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-01T19:38:22.281Z",
+  "generatedAt": "2026-08-02T19:38:51.662Z",
   "owner": {
     "login": "tbdavid2019",
     "id": 56015064,
@@ -27,65 +27,65 @@
     "archivedRepoCount": 0
   },
   "totals": {
-    "stars": 204,
-    "forks": 61,
-    "watchers": 204,
+    "stars": 205,
+    "forks": 60,
+    "watchers": 205,
     "openIssues": 19,
-    "sizeKB": 1585023,
-    "latestPushAt": "2026-08-01T09:52:28.000Z"
+    "sizeKB": 1586435,
+    "latestPushAt": "2026-08-02T11:45:09.000Z"
   },
   "contributions": {
     "year": 2026,
-    "totalContributions": 1626,
-    "commits": 1360,
+    "totalContributions": 1642,
+    "commits": 1375,
     "issues": 93,
     "pullRequests": 1,
     "pullRequestReviews": 0,
     "repositories": 36,
-    "restricted": 136,
+    "restricted": 137,
     "from": "2026-01-01T00:00:00.000Z",
-    "to": "2026-08-01T19:38:21.845Z"
+    "to": "2026-08-02T19:38:51.372Z"
   },
   "languages": [
     {
       "name": "JavaScript",
-      "bytes": 7594717,
-      "percent": 32.58925648155594
+      "bytes": 7594445,
+      "percent": 32.58899548612646
     },
     {
       "name": "Fluent",
       "bytes": 4572086,
-      "percent": 19.619017181249962
+      "percent": 19.619562721987187
     },
     {
       "name": "Python",
       "bytes": 2613914,
-      "percent": 11.21641711820596
+      "percent": 11.216729010101826
     },
     {
       "name": "TypeScript",
-      "bytes": 2365449,
-      "percent": 10.150243143364
+      "bytes": 2362967,
+      "percent": 10.139874723810072
     },
     {
       "name": "Vue",
-      "bytes": 1570653,
-      "percent": 6.739739408397348
+      "bytes": 1572686,
+      "percent": 6.748650751318137
     },
     {
       "name": "CSS",
-      "bytes": 1424834,
-      "percent": 6.1140238233552715
+      "bytes": 1425272,
+      "percent": 6.116073363425824
     },
     {
       "name": "HTML",
-      "bytes": 1245771,
-      "percent": 5.345656808052811
+      "bytes": 1245666,
+      "percent": 5.345354881261396
     },
     {
       "name": "PHP",
-      "bytes": 394357,
-      "percent": 1.692202806015939
+      "bytes": 394644,
+      "percent": 1.6934814242024123
     }
   ],
   "topRepos": [
@@ -112,7 +112,7 @@
       "stars": 32,
       "forks": 7,
       "openIssues": 0,
-      "pushedAt": "2026-08-01T06:22:15Z",
+      "pushedAt": "2026-08-02T06:27:19Z",
       "archived": false,
       "fork": false,
       "score": 142
@@ -123,13 +123,13 @@
       "url": "https://github.com/tbdavid2019/fonts-TW",
       "description": "看電子書專用的字體, 台灣用語簡繁體自轉。只要下載這個字型檔，安裝好字型，將編輯器的字型設定使用888字體，所有的簡體中文自動顯示為繁體。  不需要額外的設定，只要下載字型、安裝字型 & 選擇該字型顯示即可。  連在 Windows 內附的記事本都可以用 ",
       "language": "CSS",
-      "stars": 22,
+      "stars": 23,
       "forks": 2,
       "openIssues": 0,
       "pushedAt": "2026-05-15T02:34:18Z",
       "archived": false,
       "fork": false,
-      "score": 92
+      "score": 96
     },
     {
       "name": "ClawDashboard2",
@@ -168,7 +168,7 @@
       "stars": 7,
       "forks": 2,
       "openIssues": 1,
-      "pushedAt": "2026-08-01T02:17:49Z",
+      "pushedAt": "2026-08-01T23:52:10Z",
       "archived": false,
       "fork": false,
       "score": 32
