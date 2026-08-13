@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-12T19:30:46.471Z",
+  "generatedAt": "2026-08-13T19:29:40.092Z",
   "owner": {
     "login": "tbdavid2019",
     "id": 56015064,
@@ -27,65 +27,65 @@
     "archivedRepoCount": 0
   },
   "totals": {
-    "stars": 207,
-    "forks": 60,
-    "watchers": 207,
+    "stars": 206,
+    "forks": 59,
+    "watchers": 206,
     "openIssues": 19,
-    "sizeKB": 1622415,
-    "latestPushAt": "2026-08-12T08:11:56.000Z"
+    "sizeKB": 1625435,
+    "latestPushAt": "2026-08-13T08:14:00.000Z"
   },
   "contributions": {
     "year": 2026,
-    "totalContributions": 1863,
-    "commits": 1590,
+    "totalContributions": 1866,
+    "commits": 1593,
     "issues": 93,
     "pullRequests": 1,
     "pullRequestReviews": 0,
     "repositories": 37,
     "restricted": 142,
     "from": "2026-01-01T00:00:00.000Z",
-    "to": "2026-08-12T19:30:46.059Z"
+    "to": "2026-08-13T19:29:39.776Z"
   },
   "languages": [
     {
       "name": "JavaScript",
       "bytes": 9561705,
-      "percent": 35.653585016679806
+      "percent": 35.652353991145404
     },
     {
       "name": "Fluent",
       "bytes": 4572086,
-      "percent": 17.048346179323826
+      "percent": 17.047757544283158
     },
     {
       "name": "TypeScript",
       "bytes": 3859579,
-      "percent": 14.391557573162112
+      "percent": 14.391060670120126
     },
     {
       "name": "Python",
       "bytes": 2608025,
-      "percent": 9.724776184072438
+      "percent": 9.72444041285074
     },
     {
       "name": "Vue",
       "bytes": 1575168,
-      "percent": 5.87346986793187
+      "percent": 5.8732670722977245
     },
     {
       "name": "CSS",
       "bytes": 1425394,
-      "percent": 5.314994152325898
+      "percent": 5.314810639405285
     },
     {
       "name": "HTML",
       "bytes": 1281200,
-      "percent": 4.777325082019385
+      "percent": 4.7771601334129725
     },
     {
       "name": "PHP",
       "bytes": 406453,
-      "percent": 1.5155776705916526
+      "percent": 1.5155253416376075
     }
   ],
   "topRepos": [
@@ -95,13 +95,13 @@
       "url": "https://github.com/tbdavid2019/ai-hedge-fund-API",
       "description": "如果把幾位股神做成AI 開一家投資公司會如何？世界級分析師一起分析個股",
       "language": "Python",
-      "stars": 62,
-      "forks": 27,
+      "stars": 61,
+      "forks": 26,
       "openIssues": 2,
       "pushedAt": "2026-04-02T00:46:29Z",
       "archived": false,
       "fork": false,
-      "score": 302
+      "score": 296
     },
     {
       "name": "openclaw-docs-skill",
@@ -112,7 +112,7 @@
       "stars": 32,
       "forks": 7,
       "openIssues": 0,
-      "pushedAt": "2026-08-12T05:25:41Z",
+      "pushedAt": "2026-08-13T05:28:36Z",
       "archived": false,
       "fork": false,
       "score": 142
