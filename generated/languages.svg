@@ -23,42 +23,42 @@
             <text x="28" y="93" class="label" >JavaScript</text>
             
     <rect x="185" y="83" width="290" height="8" rx="4" fill="#eaeef2"/>
-    <rect x="185" y="83" width="105.12" height="8" rx="4" fill="#0969da"/>
-            <text x="490" y="93" class="small" >36.2%</text>
+    <rect x="185" y="83" width="105.14" height="8" rx="4" fill="#0969da"/>
+            <text x="490" y="93" class="small" >36.3%</text>
           
 
             <text x="28" y="122" class="label" >Fluent</text>
             
     <rect x="185" y="112" width="290" height="8" rx="4" fill="#eaeef2"/>
-    <rect x="185" y="112" width="48.96" height="8" rx="4" fill="#0969da"/>
+    <rect x="185" y="112" width="48.95" height="8" rx="4" fill="#0969da"/>
             <text x="490" y="122" class="small" >16.9%</text>
           
 
             <text x="28" y="151" class="label" >TypeScript</text>
             
     <rect x="185" y="141" width="290" height="8" rx="4" fill="#eaeef2"/>
-    <rect x="185" y="141" width="41.33" height="8" rx="4" fill="#0969da"/>
-            <text x="490" y="151" class="small" >14.3%</text>
+    <rect x="185" y="141" width="41.32" height="8" rx="4" fill="#0969da"/>
+            <text x="490" y="151" class="small" >14.2%</text>
           
 
             <text x="28" y="180" class="label" >Python</text>
             
     <rect x="185" y="170" width="290" height="8" rx="4" fill="#eaeef2"/>
-    <rect x="185" y="170" width="27.93" height="8" rx="4" fill="#0969da"/>
+    <rect x="185" y="170" width="27.92" height="8" rx="4" fill="#0969da"/>
             <text x="490" y="180" class="small" >9.6%</text>
           
 
             <text x="28" y="209" class="label" >Vue</text>
             
     <rect x="185" y="199" width="290" height="8" rx="4" fill="#eaeef2"/>
-    <rect x="185" y="199" width="16.87" height="8" rx="4" fill="#0969da"/>
+    <rect x="185" y="199" width="16.86" height="8" rx="4" fill="#0969da"/>
             <text x="490" y="209" class="small" >5.8%</text>
           
 
             <text x="28" y="238" class="label" >CSS</text>
             
     <rect x="185" y="228" width="290" height="8" rx="4" fill="#eaeef2"/>
-    <rect x="185" y="228" width="15.36" height="8" rx="4" fill="#0969da"/>
+    <rect x="185" y="228" width="15.35" height="8" rx="4" fill="#0969da"/>
             <text x="490" y="238" class="small" >5.3%</text>
           
 
