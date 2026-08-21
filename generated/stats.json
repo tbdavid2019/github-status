@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T19:05:08.445Z",
+  "generatedAt": "2026-08-21T19:01:08.671Z",
   "owner": {
     "login": "tbdavid2019",
     "id": 56015064,
@@ -28,64 +28,64 @@
   },
   "totals": {
     "stars": 208,
-    "forks": 59,
+    "forks": 60,
     "watchers": 208,
     "openIssues": 17,
-    "sizeKB": 1668015,
-    "latestPushAt": "2026-08-20T09:53:24.000Z"
+    "sizeKB": 1670516,
+    "latestPushAt": "2026-08-21T07:37:42.000Z"
   },
   "contributions": {
     "year": 2026,
-    "totalContributions": 2055,
-    "commits": 1751,
+    "totalContributions": 2087,
+    "commits": 1771,
     "issues": 93,
-    "pullRequests": 3,
+    "pullRequests": 5,
     "pullRequestReviews": 0,
     "repositories": 37,
-    "restricted": 171,
+    "restricted": 181,
     "from": "2026-01-01T00:00:00.000Z",
-    "to": "2026-08-20T19:05:08.035Z"
+    "to": "2026-08-21T19:01:08.291Z"
   },
   "languages": [
     {
       "name": "JavaScript",
-      "bytes": 10128843,
-      "percent": 36.76908067705672
+      "bytes": 10213810,
+      "percent": 36.96351155114938
     },
     {
       "name": "Fluent",
       "bytes": 4572086,
-      "percent": 16.59729536694779
+      "percent": 16.546259786881524
     },
     {
       "name": "TypeScript",
       "bytes": 3940961,
-      "percent": 14.306225593005454
+      "percent": 14.262234900211501
     },
     {
       "name": "Python",
       "bytes": 2622143,
-      "percent": 9.518736494758537
+      "percent": 9.489467012727424
     },
     {
       "name": "Vue",
       "bytes": 1575437,
-      "percent": 5.719051046069152
+      "percent": 5.701465344235709
     },
     {
       "name": "CSS",
       "bytes": 1444209,
-      "percent": 5.242675519359063
+      "percent": 5.226554640606581
     },
     {
       "name": "HTML",
       "bytes": 1282917,
-      "percent": 4.657163574849327
+      "percent": 4.642843106408471
     },
     {
       "name": "PHP",
       "bytes": 450466,
-      "percent": 1.6352529796612538
+      "percent": 1.6302246854406004
     }
   ],
   "topRepos": [
@@ -96,12 +96,12 @@
       "description": "如果把幾位股神做成AI 開一家投資公司會如何？世界級分析師一起分析個股",
       "language": "Python",
       "stars": 61,
-      "forks": 26,
+      "forks": 27,
       "openIssues": 2,
       "pushedAt": "2026-04-02T00:46:29Z",
       "archived": false,
       "fork": false,
-      "score": 296
+      "score": 298
     },
     {
       "name": "openclaw-docs-skill",
@@ -112,7 +112,7 @@
       "stars": 32,
       "forks": 7,
       "openIssues": 0,
-      "pushedAt": "2026-08-20T04:29:39Z",
+      "pushedAt": "2026-08-21T04:30:20Z",
       "archived": false,
       "fork": false,
       "score": 142
@@ -168,7 +168,7 @@
       "stars": 9,
       "forks": 2,
       "openIssues": 0,
-      "pushedAt": "2026-08-20T08:56:43Z",
+      "pushedAt": "2026-08-21T06:36:44Z",
       "archived": false,
       "fork": false,
       "score": 40
