@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T21:02:40.884Z",
+  "generatedAt": "2026-09-12T20:38:52.941Z",
   "owner": {
     "login": "tbdavid2019",
     "id": 56015064,
@@ -12,7 +12,7 @@
     "profileUrl": "https://github.com/tbdavid2019",
     "avatarUrl": "https://avatars.githubusercontent.com/u/56015064?v=4",
     "createdAt": "2019-10-01T05:42:35Z",
-    "followers": 23,
+    "followers": 24,
     "following": 7,
     "publicRepos": 148,
     "publicGists": 0
@@ -31,20 +31,20 @@
     "forks": 61,
     "watchers": 212,
     "openIssues": 18,
-    "sizeKB": 1701696,
-    "latestPushAt": "2026-09-11T15:42:42.000Z"
+    "sizeKB": 1677506,
+    "latestPushAt": "2026-09-12T08:16:51.000Z"
   },
   "contributions": {
     "year": 2026,
-    "totalContributions": 3377,
-    "commits": 2928,
+    "totalContributions": 3380,
+    "commits": 2931,
     "issues": 93,
     "pullRequests": 7,
     "pullRequestReviews": 0,
     "repositories": 40,
     "restricted": 309,
     "from": "2026-01-01T00:00:00.000Z",
-    "to": "2026-09-11T21:02:40.535Z"
+    "to": "2026-09-12T20:38:52.582Z"
   },
   "languages": [
     {
@@ -95,13 +95,13 @@
       "url": "https://github.com/tbdavid2019/ai-hedge-fund-API",
       "description": "如果把幾位股神做成AI 開一家投資公司會如何？世界級分析師一起分析個股",
       "language": "Python",
-      "stars": 63,
+      "stars": 62,
       "forks": 27,
       "openIssues": 3,
       "pushedAt": "2026-09-10T13:38:38Z",
       "archived": false,
       "fork": false,
-      "score": 306
+      "score": 302
     },
     {
       "name": "openclaw-docs-skill",
@@ -112,7 +112,7 @@
       "stars": 32,
       "forks": 7,
       "openIssues": 0,
-      "pushedAt": "2026-09-11T08:27:50Z",
+      "pushedAt": "2026-09-12T08:16:13Z",
       "archived": false,
       "fork": false,
       "score": 142
