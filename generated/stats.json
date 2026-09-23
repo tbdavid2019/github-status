@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T21:26:08.138Z",
+  "generatedAt": "2026-09-23T21:35:05.877Z",
   "owner": {
     "login": "tbdavid2019",
     "id": 56015064,
@@ -31,61 +31,61 @@
     "forks": 61,
     "watchers": 213,
     "openIssues": 18,
-    "sizeKB": 1815058,
-    "latestPushAt": "2026-09-22T13:29:36.000Z"
+    "sizeKB": 1804719,
+    "latestPushAt": "2026-09-23T08:58:40.000Z"
   },
   "contributions": {
     "year": 2026,
-    "totalContributions": 3596,
-    "commits": 3133,
-    "issues": 93,
+    "totalContributions": 3628,
+    "commits": 3163,
+    "issues": 95,
     "pullRequests": 10,
     "pullRequestReviews": 0,
     "repositories": 45,
     "restricted": 315,
     "from": "2026-01-01T00:00:00.000Z",
-    "to": "2026-09-22T21:26:07.583Z"
+    "to": "2026-09-23T21:35:05.126Z"
   },
   "languages": [
     {
       "name": "JavaScript",
-      "bytes": 46881692,
-      "percent": 58.029516004514946
+      "bytes": 46963753,
+      "percent": 57.91444431375549
     },
     {
       "name": "TypeScript",
-      "bytes": 12016068,
-      "percent": 14.87332433132618
+      "bytes": 12165293,
+      "percent": 15.001914008214365
     },
     {
       "name": "Go",
-      "bytes": 4768147,
-      "percent": 5.901947025469558
+      "bytes": 4834966,
+      "percent": 5.96235077647864
     },
     {
       "name": "Fluent",
       "bytes": 4572086,
-      "percent": 5.659265406014329
+      "percent": 5.638174190310154
     },
     {
       "name": "Python",
       "bytes": 4108900,
-      "percent": 5.085940121592699
+      "percent": 5.0669856014443715
     },
     {
       "name": "HTML",
-      "bytes": 2609960,
-      "percent": 3.230572727433639
+      "bytes": 2614071,
+      "percent": 3.2236024527618805
     },
     {
       "name": "CSS",
       "bytes": 1730291,
-      "percent": 2.141730492085656
+      "percent": 2.1337485904521363
     },
     {
       "name": "Vue",
       "bytes": 1703621,
-      "percent": 2.108718731506699
+      "percent": 2.100859859650578
     }
   ],
   "topRepos": [
@@ -112,7 +112,7 @@
       "stars": 32,
       "forks": 7,
       "openIssues": 0,
-      "pushedAt": "2026-09-22T08:56:10Z",
+      "pushedAt": "2026-09-23T08:58:40Z",
       "archived": false,
       "fork": false,
       "score": 142
@@ -160,15 +160,15 @@
       "score": 54
     },
     {
-      "name": "cf-notepad",
-      "fullName": "tbdavid2019/cf-notepad",
-      "url": "https://github.com/tbdavid2019/cf-notepad",
+      "name": "888wiki",
+      "fullName": "tbdavid2019/888wiki",
+      "url": "https://github.com/tbdavid2019/888wiki",
       "description": "可以安裝在 Cloudflare Worker 上的 wiki markdown 支援 SKILL 和 MCP 調用  https://wiki.david888.com ",
       "language": "JavaScript",
       "stars": 9,
       "forks": 2,
       "openIssues": 0,
-      "pushedAt": "2026-09-22T04:16:52Z",
+      "pushedAt": "2026-09-23T06:49:48Z",
       "archived": false,
       "fork": false,
       "score": 40
