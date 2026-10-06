@@ -18,61 +18,61 @@
   <rect x="0.5" y="0.5" width="559" height="323" rx="12" fill="#ffffff" stroke="#d0d7de"/>
   
     <text x="28" y="38" class="title" >DAVID TB&apos;s Top Languages</text>
-    <text x="28" y="60" class="subtitle" >Detailed language bytes from 136 selected repositories</text>
+    <text x="28" y="60" class="subtitle" >Detailed language bytes from 137 selected repositories</text>
     
             <text x="28" y="93" class="label" >JavaScript</text>
             
     <rect x="185" y="83" width="290" height="8" rx="4" fill="#eaeef2"/>
-    <rect x="185" y="83" width="162.92" height="8" rx="4" fill="#0969da"/>
-            <text x="490" y="93" class="small" >56.2%</text>
+    <rect x="185" y="83" width="161.50" height="8" rx="4" fill="#0969da"/>
+            <text x="490" y="93" class="small" >55.7%</text>
           
 
             <text x="28" y="122" class="label" >TypeScript</text>
             
     <rect x="185" y="112" width="290" height="8" rx="4" fill="#eaeef2"/>
-    <rect x="185" y="112" width="50.65" height="8" rx="4" fill="#0969da"/>
-            <text x="490" y="122" class="small" >17.5%</text>
+    <rect x="185" y="112" width="50.36" height="8" rx="4" fill="#0969da"/>
+            <text x="490" y="122" class="small" >17.4%</text>
           
 
             <text x="28" y="151" class="label" >Go</text>
             
     <rect x="185" y="141" width="290" height="8" rx="4" fill="#eaeef2"/>
-    <rect x="185" y="141" width="16.59" height="8" rx="4" fill="#0969da"/>
+    <rect x="185" y="141" width="16.41" height="8" rx="4" fill="#0969da"/>
             <text x="490" y="151" class="small" >5.7%</text>
           
 
             <text x="28" y="180" class="label" >Fluent</text>
             
     <rect x="185" y="170" width="290" height="8" rx="4" fill="#eaeef2"/>
-    <rect x="185" y="170" width="15.69" height="8" rx="4" fill="#0969da"/>
+    <rect x="185" y="170" width="15.52" height="8" rx="4" fill="#0969da"/>
             <text x="490" y="180" class="small" >5.4%</text>
           
 
             <text x="28" y="209" class="label" >Python</text>
             
     <rect x="185" y="199" width="290" height="8" rx="4" fill="#eaeef2"/>
-    <rect x="185" y="199" width="14.54" height="8" rx="4" fill="#0969da"/>
+    <rect x="185" y="199" width="14.39" height="8" rx="4" fill="#0969da"/>
             <text x="490" y="209" class="small" >5.0%</text>
           
 
             <text x="28" y="238" class="label" >HTML</text>
             
     <rect x="185" y="228" width="290" height="8" rx="4" fill="#eaeef2"/>
-    <rect x="185" y="228" width="9.17" height="8" rx="4" fill="#0969da"/>
-            <text x="490" y="238" class="small" >3.2%</text>
+    <rect x="185" y="228" width="11.56" height="8" rx="4" fill="#0969da"/>
+            <text x="490" y="238" class="small" >4.0%</text>
           
 
             <text x="28" y="267" class="label" >CSS</text>
             
     <rect x="185" y="257" width="290" height="8" rx="4" fill="#eaeef2"/>
-    <rect x="185" y="257" width="6.27" height="8" rx="4" fill="#0969da"/>
-            <text x="490" y="267" class="small" >2.2%</text>
+    <rect x="185" y="257" width="6.21" height="8" rx="4" fill="#0969da"/>
+            <text x="490" y="267" class="small" >2.1%</text>
           
 
             <text x="28" y="296" class="label" >Vue</text>
             
     <rect x="185" y="286" width="290" height="8" rx="4" fill="#eaeef2"/>
-    <rect x="185" y="286" width="5.90" height="8" rx="4" fill="#0969da"/>
+    <rect x="185" y="286" width="5.86" height="8" rx="4" fill="#0969da"/>
             <text x="490" y="296" class="small" >2.0%</text>
           
   
