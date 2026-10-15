@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T21:47:41.162Z",
+  "generatedAt": "2026-10-15T21:30:50.419Z",
   "owner": {
     "login": "tbdavid2019",
     "id": 56015064,
@@ -12,7 +12,7 @@
     "profileUrl": "https://github.com/tbdavid2019",
     "avatarUrl": "https://avatars.githubusercontent.com/u/56015064?v=4",
     "createdAt": "2019-10-01T05:42:35Z",
-    "followers": 23,
+    "followers": 24,
     "following": 7,
     "publicRepos": 160,
     "publicGists": 0
@@ -31,61 +31,61 @@
     "forks": 61,
     "watchers": 218,
     "openIssues": 18,
-    "sizeKB": 1922565,
-    "latestPushAt": "2026-10-14T11:29:28.000Z"
+    "sizeKB": 2062401,
+    "latestPushAt": "2026-10-15T09:46:53.000Z"
   },
   "contributions": {
     "year": 2026,
-    "totalContributions": 4194,
-    "commits": 3659,
+    "totalContributions": 4269,
+    "commits": 3732,
     "issues": 95,
     "pullRequests": 14,
     "pullRequestReviews": 0,
     "repositories": 52,
-    "restricted": 374,
+    "restricted": 376,
     "from": "2026-01-01T00:00:00.000Z",
-    "to": "2026-10-14T21:47:40.758Z"
+    "to": "2026-10-15T21:30:49.819Z"
   },
   "languages": [
     {
       "name": "JavaScript",
-      "bytes": 47797695,
-      "percent": 54.36502355131324
+      "bytes": 47846841,
+      "percent": 54.04020212708824
     },
     {
       "name": "TypeScript",
-      "bytes": 15796214,
-      "percent": 17.966589102917702
+      "bytes": 15907789,
+      "percent": 17.966915160711885
+    },
+    {
+      "name": "Python",
+      "bytes": 4942662,
+      "percent": 5.582446990092371
     },
     {
       "name": "Go",
       "bytes": 4834966,
-      "percent": 5.499282767920059
-    },
-    {
-      "name": "Python",
-      "bytes": 4683895,
-      "percent": 5.327454848751144
+      "percent": 5.460810671233224
     },
     {
       "name": "Fluent",
       "bytes": 4572086,
-      "percent": 5.2002834669878855
+      "percent": 5.163903121262078
     },
     {
       "name": "HTML",
-      "bytes": 4120867,
-      "percent": 4.687067681963105
+      "bytes": 4318926,
+      "percent": 4.877973741504412
     },
     {
       "name": "CSS",
-      "bytes": 1847756,
-      "percent": 2.101634785047278
+      "bytes": 1849619,
+      "percent": 2.089036235811322
     },
     {
       "name": "Vue",
       "bytes": 1730944,
-      "percent": 1.9687729989072558
+      "percent": 1.9549997800412913
     }
   ],
   "topRepos": [
@@ -98,7 +98,7 @@
       "stars": 63,
       "forks": 27,
       "openIssues": 3,
-      "pushedAt": "2026-10-14T10:08:10Z",
+      "pushedAt": "2026-10-15T01:57:07Z",
       "archived": false,
       "fork": false,
       "score": 306
@@ -112,7 +112,7 @@
       "stars": 32,
       "forks": 7,
       "openIssues": 0,
-      "pushedAt": "2026-10-14T09:11:10Z",
+      "pushedAt": "2026-10-15T08:44:04Z",
       "archived": false,
       "fork": false,
       "score": 142
@@ -149,12 +149,12 @@
       "name": "telegram-bot-stock2",
       "fullName": "tbdavid2019/telegram-bot-stock2",
       "url": "https://github.com/tbdavid2019/telegram-bot-stock2",
-      "description": "美股台股機器人 可以查詢個股資訊 預測個股未來。示範帳號如下，歡迎使用",
+      "description": "美股台股機器人 可以查詢個股資訊 預測個股未來。示範帳號如下，歡迎使用 t.me/oli_billion_bot",
       "language": "Python",
       "stars": 12,
       "forks": 3,
       "openIssues": 0,
-      "pushedAt": "2026-10-14T09:42:06Z",
+      "pushedAt": "2026-10-15T09:46:53Z",
       "archived": false,
       "fork": false,
       "score": 54
