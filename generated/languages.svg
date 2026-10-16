@@ -23,56 +23,56 @@
             <text x="28" y="93" class="label" >JavaScript</text>
             
     <rect x="185" y="83" width="290" height="8" rx="4" fill="#eaeef2"/>
-    <rect x="185" y="83" width="156.72" height="8" rx="4" fill="#0969da"/>
-            <text x="490" y="93" class="small" >54.0%</text>
+    <rect x="185" y="83" width="156.21" height="8" rx="4" fill="#0969da"/>
+            <text x="490" y="93" class="small" >53.9%</text>
           
 
             <text x="28" y="122" class="label" >TypeScript</text>
             
     <rect x="185" y="112" width="290" height="8" rx="4" fill="#eaeef2"/>
-    <rect x="185" y="112" width="52.10" height="8" rx="4" fill="#0969da"/>
+    <rect x="185" y="112" width="52.18" height="8" rx="4" fill="#0969da"/>
             <text x="490" y="122" class="small" >18.0%</text>
           
 
             <text x="28" y="151" class="label" >Python</text>
             
     <rect x="185" y="141" width="290" height="8" rx="4" fill="#eaeef2"/>
-    <rect x="185" y="141" width="16.19" height="8" rx="4" fill="#0969da"/>
-            <text x="490" y="151" class="small" >5.6%</text>
+    <rect x="185" y="141" width="16.60" height="8" rx="4" fill="#0969da"/>
+            <text x="490" y="151" class="small" >5.7%</text>
           
 
             <text x="28" y="180" class="label" >Go</text>
             
     <rect x="185" y="170" width="290" height="8" rx="4" fill="#eaeef2"/>
-    <rect x="185" y="170" width="15.84" height="8" rx="4" fill="#0969da"/>
-            <text x="490" y="180" class="small" >5.5%</text>
+    <rect x="185" y="170" width="15.78" height="8" rx="4" fill="#0969da"/>
+            <text x="490" y="180" class="small" >5.4%</text>
           
 
             <text x="28" y="209" class="label" >Fluent</text>
             
     <rect x="185" y="199" width="290" height="8" rx="4" fill="#eaeef2"/>
-    <rect x="185" y="199" width="14.98" height="8" rx="4" fill="#0969da"/>
-            <text x="490" y="209" class="small" >5.2%</text>
+    <rect x="185" y="199" width="14.92" height="8" rx="4" fill="#0969da"/>
+            <text x="490" y="209" class="small" >5.1%</text>
           
 
             <text x="28" y="238" class="label" >HTML</text>
             
     <rect x="185" y="228" width="290" height="8" rx="4" fill="#eaeef2"/>
-    <rect x="185" y="228" width="14.15" height="8" rx="4" fill="#0969da"/>
+    <rect x="185" y="228" width="14.16" height="8" rx="4" fill="#0969da"/>
             <text x="490" y="238" class="small" >4.9%</text>
           
 
             <text x="28" y="267" class="label" >CSS</text>
             
     <rect x="185" y="257" width="290" height="8" rx="4" fill="#eaeef2"/>
-    <rect x="185" y="257" width="6.06" height="8" rx="4" fill="#0969da"/>
+    <rect x="185" y="257" width="6.04" height="8" rx="4" fill="#0969da"/>
             <text x="490" y="267" class="small" >2.1%</text>
           
 
             <text x="28" y="296" class="label" >Vue</text>
             
     <rect x="185" y="286" width="290" height="8" rx="4" fill="#eaeef2"/>
-    <rect x="185" y="286" width="5.67" height="8" rx="4" fill="#0969da"/>
+    <rect x="185" y="286" width="5.84" height="8" rx="4" fill="#0969da"/>
             <text x="490" y="296" class="small" >2.0%</text>
           
   
