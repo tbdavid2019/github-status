@@ -5,7 +5,7 @@
   "description": "Refactored static GitHub Actions version inspired by GitHub README Stats. Fork it to get daily updated GitHub profile status cards.",
   "type": "module",
   "engines": {
-    "node": ">=20"
+    "node": ">=20.9.0"
   },
   "scripts": {
     "generate": "node src/index.js",
@@ -14,6 +14,6 @@
   },
   "license": "AGPL-3.0",
   "dependencies": {
-    "sharp": "^0.34.5"
+    "sharp": "^0.35.5"
   }
 }
