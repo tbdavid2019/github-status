@@ -23,14 +23,14 @@
             <text x="28" y="93" class="label" >JavaScript</text>
             
     <rect x="185" y="83" width="290" height="8" rx="4" fill="#eaeef2"/>
-    <rect x="185" y="83" width="153.92" height="8" rx="4" fill="#0969da"/>
+    <rect x="185" y="83" width="153.89" height="8" rx="4" fill="#0969da"/>
             <text x="490" y="93" class="small" >53.1%</text>
           
 
             <text x="28" y="122" class="label" >TypeScript</text>
             
     <rect x="185" y="112" width="290" height="8" rx="4" fill="#eaeef2"/>
-    <rect x="185" y="112" width="54.10" height="8" rx="4" fill="#0969da"/>
+    <rect x="185" y="112" width="54.13" height="8" rx="4" fill="#0969da"/>
             <text x="490" y="122" class="small" >18.7%</text>
           
 
