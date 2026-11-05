@@ -23,49 +23,49 @@
             <text x="28" y="93" class="label" >JavaScript</text>
             
     <rect x="185" y="83" width="290" height="8" rx="4" fill="#eaeef2"/>
-    <rect x="185" y="83" width="151.44" height="8" rx="4" fill="#0969da"/>
+    <rect x="185" y="83" width="151.45" height="8" rx="4" fill="#0969da"/>
             <text x="490" y="93" class="small" >52.2%</text>
           
 
             <text x="28" y="122" class="label" >TypeScript</text>
             
     <rect x="185" y="112" width="290" height="8" rx="4" fill="#eaeef2"/>
-    <rect x="185" y="112" width="54.38" height="8" rx="4" fill="#0969da"/>
+    <rect x="185" y="112" width="54.43" height="8" rx="4" fill="#0969da"/>
             <text x="490" y="122" class="small" >18.8%</text>
           
 
             <text x="28" y="151" class="label" >Python</text>
             
     <rect x="185" y="141" width="290" height="8" rx="4" fill="#eaeef2"/>
-    <rect x="185" y="141" width="18.96" height="8" rx="4" fill="#0969da"/>
+    <rect x="185" y="141" width="18.92" height="8" rx="4" fill="#0969da"/>
             <text x="490" y="151" class="small" >6.5%</text>
           
 
             <text x="28" y="180" class="label" >HTML</text>
             
     <rect x="185" y="170" width="290" height="8" rx="4" fill="#eaeef2"/>
-    <rect x="185" y="170" width="15.53" height="8" rx="4" fill="#0969da"/>
+    <rect x="185" y="170" width="15.54" height="8" rx="4" fill="#0969da"/>
             <text x="490" y="180" class="small" >5.4%</text>
           
 
             <text x="28" y="209" class="label" >Go</text>
             
     <rect x="185" y="199" width="290" height="8" rx="4" fill="#eaeef2"/>
-    <rect x="185" y="199" width="15.37" height="8" rx="4" fill="#0969da"/>
+    <rect x="185" y="199" width="15.36" height="8" rx="4" fill="#0969da"/>
             <text x="490" y="209" class="small" >5.3%</text>
           
 
             <text x="28" y="238" class="label" >Fluent</text>
             
     <rect x="185" y="228" width="290" height="8" rx="4" fill="#eaeef2"/>
-    <rect x="185" y="228" width="14.14" height="8" rx="4" fill="#0969da"/>
+    <rect x="185" y="228" width="14.13" height="8" rx="4" fill="#0969da"/>
             <text x="490" y="238" class="small" >4.9%</text>
           
 
             <text x="28" y="267" class="label" >CSS</text>
             
     <rect x="185" y="257" width="290" height="8" rx="4" fill="#eaeef2"/>
-    <rect x="185" y="257" width="6.36" height="8" rx="4" fill="#0969da"/>
+    <rect x="185" y="257" width="6.35" height="8" rx="4" fill="#0969da"/>
             <text x="490" y="267" class="small" >2.2%</text>
           
 
