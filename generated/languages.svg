@@ -23,21 +23,21 @@
             <text x="28" y="93" class="label" >JavaScript</text>
             
     <rect x="185" y="83" width="290" height="8" rx="4" fill="#eaeef2"/>
-    <rect x="185" y="83" width="150.38" height="8" rx="4" fill="#0969da"/>
+    <rect x="185" y="83" width="150.43" height="8" rx="4" fill="#0969da"/>
             <text x="490" y="93" class="small" >51.9%</text>
           
 
             <text x="28" y="122" class="label" >TypeScript</text>
             
     <rect x="185" y="112" width="290" height="8" rx="4" fill="#eaeef2"/>
-    <rect x="185" y="112" width="54.29" height="8" rx="4" fill="#0969da"/>
+    <rect x="185" y="112" width="54.27" height="8" rx="4" fill="#0969da"/>
             <text x="490" y="122" class="small" >18.7%</text>
           
 
             <text x="28" y="151" class="label" >Python</text>
             
     <rect x="185" y="141" width="290" height="8" rx="4" fill="#eaeef2"/>
-    <rect x="185" y="141" width="20.10" height="8" rx="4" fill="#0969da"/>
+    <rect x="185" y="141" width="20.09" height="8" rx="4" fill="#0969da"/>
             <text x="490" y="151" class="small" >6.9%</text>
           
 
@@ -58,7 +58,7 @@
             <text x="28" y="238" class="label" >Fluent</text>
             
     <rect x="185" y="228" width="290" height="8" rx="4" fill="#eaeef2"/>
-    <rect x="185" y="228" width="14.01" height="8" rx="4" fill="#0969da"/>
+    <rect x="185" y="228" width="14.00" height="8" rx="4" fill="#0969da"/>
             <text x="490" y="238" class="small" >4.8%</text>
           
 
@@ -72,7 +72,7 @@
             <text x="28" y="296" class="label" >Vue</text>
             
     <rect x="185" y="286" width="290" height="8" rx="4" fill="#eaeef2"/>
-    <rect x="185" y="286" width="5.87" height="8" rx="4" fill="#0969da"/>
+    <rect x="185" y="286" width="5.86" height="8" rx="4" fill="#0969da"/>
             <text x="490" y="296" class="small" >2.0%</text>
           
   
