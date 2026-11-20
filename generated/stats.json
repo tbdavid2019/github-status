@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T00:30:28.832Z",
+  "generatedAt": "2026-11-20T00:41:28.929Z",
   "owner": {
     "login": "tbdavid2019",
     "id": 56015064,
@@ -27,65 +27,65 @@
     "archivedRepoCount": 0
   },
   "totals": {
-    "stars": 224,
+    "stars": 225,
     "forks": 61,
-    "watchers": 224,
+    "watchers": 225,
     "openIssues": 33,
-    "sizeKB": 2978384,
-    "latestPushAt": "2026-11-18T13:34:03.000Z"
+    "sizeKB": 2981161,
+    "latestPushAt": "2026-11-20T00:23:50.000Z"
   },
   "contributions": {
     "year": 2026,
-    "totalContributions": 5343,
-    "commits": 4696,
+    "totalContributions": 5365,
+    "commits": 4716,
     "issues": 95,
     "pullRequests": 20,
     "pullRequestReviews": 0,
     "repositories": 52,
-    "restricted": 480,
+    "restricted": 482,
     "from": "2026-01-01T00:00:00.000Z",
-    "to": "2026-11-19T00:30:27.987Z"
+    "to": "2026-11-20T00:41:28.151Z"
   },
   "languages": [
     {
       "name": "JavaScript",
-      "bytes": 52549145,
-      "percent": 52.865135244244065
+      "bytes": 52566673,
+      "percent": 52.76792087968858
     },
     {
       "name": "TypeScript",
-      "bytes": 17957376,
-      "percent": 18.0653578830206
+      "bytes": 17974875,
+      "percent": 18.043690568400482
     },
     {
       "name": "Python",
-      "bytes": 7048303,
-      "percent": 7.0906860870412105
+      "bytes": 7229622,
+      "percent": 7.257300108874228
     },
     {
       "name": "HTML",
       "bytes": 5463682,
-      "percent": 5.496536392010601
+      "percent": 5.484599329460678
     },
     {
       "name": "Go",
       "bytes": 5228955,
-      "percent": 5.260397923906587
+      "percent": 5.248973693340874
     },
     {
       "name": "Fluent",
       "bytes": 4572086,
-      "percent": 4.599579017666508
+      "percent": 4.589589915708226
     },
     {
       "name": "CSS",
       "bytes": 2104053,
-      "percent": 2.116705160589339
+      "percent": 2.1121082216991627
     },
     {
       "name": "Vue",
       "bytes": 1915342,
-      "percent": 1.92685939740753
+      "percent": 1.9226747546595633
     }
   ],
   "topRepos": [
@@ -107,12 +107,12 @@
       "name": "openclaw-docs-skill",
       "fullName": "tbdavid2019/openclaw-docs-skill",
       "url": "https://github.com/tbdavid2019/openclaw-docs-skill",
-      "description": "自動每日更新, 讓你的LLM有面對openclaw疑難雜症處理的能力。This is an Agent Skill designed for AI coding assistants (like Claude with Antigravity). Once installed, the AI assistant gains deep knowledge of OpenClaw and can help you ",
+      "description": "npx -y openclaw-docs-skill@latest 自動每日更新, 讓你的LLM有面對openclaw疑難雜症處理的能力。This is an Agent Skill designed for AI coding assistants (like Claude with Antigravity). Once installed, the AI assistant gains deep knowledge of OpenClaw and can help you ",
       "language": "Python",
       "stars": 32,
       "forks": 7,
       "openIssues": 0,
-      "pushedAt": "2026-11-18T12:31:44Z",
+      "pushedAt": "2026-11-19T23:47:32Z",
       "archived": false,
       "fork": false,
       "score": 142
@@ -168,7 +168,7 @@
       "stars": 12,
       "forks": 2,
       "openIssues": 0,
-      "pushedAt": "2026-11-18T07:56:24Z",
+      "pushedAt": "2026-11-19T02:16:34Z",
       "archived": false,
       "fork": false,
       "score": 52
