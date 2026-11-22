@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T23:27:24.927Z",
+  "generatedAt": "2026-11-22T23:39:35.390Z",
   "owner": {
     "login": "tbdavid2019",
     "id": 56015064,
@@ -27,65 +27,65 @@
     "archivedRepoCount": 0
   },
   "totals": {
-    "stars": 226,
+    "stars": 227,
     "forks": 61,
-    "watchers": 226,
+    "watchers": 227,
     "openIssues": 33,
-    "sizeKB": 2989563,
-    "latestPushAt": "2026-11-21T11:57:14.000Z"
+    "sizeKB": 2961146,
+    "latestPushAt": "2026-11-22T19:51:16.000Z"
   },
   "contributions": {
     "year": 2026,
-    "totalContributions": 5411,
-    "commits": 4758,
+    "totalContributions": 5432,
+    "commits": 4779,
     "issues": 95,
     "pullRequests": 20,
     "pullRequestReviews": 0,
     "repositories": 52,
     "restricted": 486,
     "from": "2026-01-01T00:00:00.000Z",
-    "to": "2026-11-21T23:27:24.384Z"
+    "to": "2026-11-22T23:39:34.669Z"
   },
   "languages": [
     {
       "name": "JavaScript",
-      "bytes": 52750281,
-      "percent": 52.8430591442313
+      "bytes": 51070766,
+      "percent": 52.02706454776899
     },
     {
       "name": "TypeScript",
       "bytes": 18060822,
-      "percent": 18.092587699000767
+      "percent": 18.399010345365998
     },
     {
       "name": "Python",
       "bytes": 7170454,
-      "percent": 7.1830655236318055
+      "percent": 7.304720534146841
     },
     {
       "name": "HTML",
-      "bytes": 5465667,
-      "percent": 5.47528011355377
+      "bytes": 5481144,
+      "percent": 5.583778255521303
     },
     {
       "name": "Go",
       "bytes": 5228955,
-      "percent": 5.2381517802250945
+      "percent": 5.32686702412843
     },
     {
       "name": "Fluent",
       "bytes": 4572086,
-      "percent": 4.5801274671979835
+      "percent": 4.657698171982596
     },
     {
       "name": "CSS",
-      "bytes": 2118349,
-      "percent": 2.122074790371699
+      "bytes": 2119881,
+      "percent": 2.1595757075699447
     },
     {
       "name": "Vue",
       "bytes": 1892334,
-      "percent": 1.895662271119272
+      "percent": 1.9277678968813172
     }
   ],
   "topRepos": [
@@ -112,7 +112,7 @@
       "stars": 32,
       "forks": 7,
       "openIssues": 0,
-      "pushedAt": "2026-11-21T11:57:14Z",
+      "pushedAt": "2026-11-22T12:11:08Z",
       "archived": false,
       "fork": false,
       "score": 142
@@ -146,6 +146,20 @@
       "score": 74
     },
     {
+      "name": "888wiki",
+      "fullName": "tbdavid2019/888wiki",
+      "url": "https://github.com/tbdavid2019/888wiki",
+      "description": "A Markdown wiki that can be installed on Cloudflare Worker, supporting SKILL and MCP invocations.  https://wiki.david888.com ",
+      "language": "JavaScript",
+      "stars": 13,
+      "forks": 2,
+      "openIssues": 0,
+      "pushedAt": "2026-11-22T12:10:20Z",
+      "archived": false,
+      "fork": false,
+      "score": 56
+    },
+    {
       "name": "telegram-bot-stock2",
       "fullName": "tbdavid2019/telegram-bot-stock2",
       "url": "https://github.com/tbdavid2019/telegram-bot-stock2",
@@ -158,20 +172,6 @@
       "archived": false,
       "fork": false,
       "score": 54
-    },
-    {
-      "name": "888wiki",
-      "fullName": "tbdavid2019/888wiki",
-      "url": "https://github.com/tbdavid2019/888wiki",
-      "description": "A Markdown wiki that can be installed on Cloudflare Worker, supporting SKILL and MCP invocations.  https://wiki.david888.com ",
-      "language": "JavaScript",
-      "stars": 12,
-      "forks": 2,
-      "openIssues": 0,
-      "pushedAt": "2026-11-20T04:31:01Z",
-      "archived": false,
-      "fork": false,
-      "score": 52
     }
   ]
 }

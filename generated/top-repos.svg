@@ -40,14 +40,14 @@
             <text x="28" y="304" class="small" >HTML · ★ 18 · ⑂ 1 · active</text>
           
 
-            <text x="28" y="320" class="repo" >telegram-bot-stock2</text>
-            <text x="28" y="341" class="desc" >美股台股機器人 可以查詢個股資訊 預測個股未來。示範帳號如下，歡迎使用 t.me/oli_billion_bot</text>
-            <text x="28" y="359" class="small" >Python · ★ 12 · ⑂ 3 · active</text>
+            <text x="28" y="320" class="repo" >888wiki</text>
+            <text x="28" y="341" class="desc" >A Markdown wiki that can be installed on Cloudflare Worker, supporting …</text>
+            <text x="28" y="359" class="small" >JavaScript · ★ 13 · ⑂ 2 · active</text>
           
 
-            <text x="28" y="375" class="repo" >888wiki</text>
-            <text x="28" y="396" class="desc" >A Markdown wiki that can be installed on Cloudflare Worker, supporting …</text>
-            <text x="28" y="414" class="small" >JavaScript · ★ 12 · ⑂ 2 · active</text>
+            <text x="28" y="375" class="repo" >telegram-bot-stock2</text>
+            <text x="28" y="396" class="desc" >美股台股機器人 可以查詢個股資訊 預測個股未來。示範帳號如下，歡迎使用 t.me/oli_billion_bot</text>
+            <text x="28" y="414" class="small" >Python · ★ 12 · ⑂ 3 · active</text>
           
   
 </svg>
