@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T03:59:13.309Z",
+  "generatedAt": "2026-11-25T02:35:06.717Z",
   "owner": {
     "login": "tbdavid2019",
     "id": 56015064,
@@ -31,61 +31,61 @@
     "forks": 61,
     "watchers": 227,
     "openIssues": 33,
-    "sizeKB": 2959449,
-    "latestPushAt": "2026-11-24T02:58:43.000Z"
+    "sizeKB": 2961109,
+    "latestPushAt": "2026-11-25T02:13:46.000Z"
   },
   "contributions": {
     "year": 2026,
-    "totalContributions": 5444,
-    "commits": 4791,
+    "totalContributions": 5457,
+    "commits": 4801,
     "issues": 95,
-    "pullRequests": 20,
+    "pullRequests": 23,
     "pullRequestReviews": 0,
     "repositories": 52,
     "restricted": 486,
     "from": "2026-01-01T00:00:00.000Z",
-    "to": "2026-11-24T03:59:12.685Z"
+    "to": "2026-11-25T02:35:06.094Z"
   },
   "languages": [
     {
       "name": "JavaScript",
-      "bytes": 51145722,
-      "percent": 52.00718830982359
+      "bytes": 51189844,
+      "percent": 52.028710707036154
     },
     {
       "name": "TypeScript",
       "bytes": 18066009,
-      "percent": 18.370301470570066
+      "percent": 18.362063300910066
     },
     {
       "name": "Python",
       "bytes": 7271953,
-      "percent": 7.39443719361683
+      "percent": 7.391121155051062
     },
     {
       "name": "HTML",
       "bytes": 5481144,
-      "percent": 5.57346493537152
+      "percent": 5.57096551260455
     },
     {
       "name": "Go",
       "bytes": 5228955,
-      "percent": 5.317028222782614
+      "percent": 5.3146437991705975
     },
     {
       "name": "Fluent",
       "bytes": 4572086,
-      "percent": 4.649095335299169
+      "percent": 4.6470104464801665
     },
     {
       "name": "CSS",
       "bytes": 2119881,
-      "percent": 2.1555869396352865
+      "percent": 2.1546202657375257
     },
     {
       "name": "Vue",
       "bytes": 1892334,
-      "percent": 1.9242072813652276
+      "percent": 1.9233443697755468
     }
   ],
   "topRepos": [
@@ -95,13 +95,13 @@
       "url": "https://github.com/tbdavid2019/ai-hedge-fund-API",
       "description": "如果把幾位股神做成AI 開一家投資公司會如何？世界級分析師一起分析個股 https://hedgeapi.afpicapital.com/skill.md",
       "language": "Python",
-      "stars": 64,
+      "stars": 63,
       "forks": 27,
-      "openIssues": 3,
+      "openIssues": 2,
       "pushedAt": "2026-11-14T11:50:40Z",
       "archived": false,
       "fork": false,
-      "score": 310
+      "score": 306
     },
     {
       "name": "openclaw-docs-skill",
@@ -109,13 +109,13 @@
       "url": "https://github.com/tbdavid2019/openclaw-docs-skill",
       "description": "npx -y openclaw-docs-skill@latest 自動每日更新, 讓你的LLM有面對openclaw疑難雜症處理的能力。This is an Agent Skill designed for AI coding assistants (like Claude with Antigravity). Once installed, the AI assistant gains deep knowledge of OpenClaw and can help you ",
       "language": "Python",
-      "stars": 32,
+      "stars": 33,
       "forks": 7,
       "openIssues": 0,
-      "pushedAt": "2026-11-23T13:55:13Z",
+      "pushedAt": "2026-11-24T14:27:35Z",
       "archived": false,
       "fork": false,
-      "score": 142
+      "score": 146
     },
     {
       "name": "fonts-TW",
@@ -154,7 +154,7 @@
       "stars": 13,
       "forks": 2,
       "openIssues": 0,
-      "pushedAt": "2026-11-22T12:10:20Z",
+      "pushedAt": "2026-11-24T05:28:43Z",
       "archived": false,
       "fork": false,
       "score": 56
