@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T01:49:59.457Z",
+  "generatedAt": "2026-11-27T01:47:40.356Z",
   "owner": {
     "login": "tbdavid2019",
     "id": 56015064,
@@ -27,65 +27,65 @@
     "archivedRepoCount": 0
   },
   "totals": {
-    "stars": 227,
+    "stars": 228,
     "forks": 61,
-    "watchers": 227,
+    "watchers": 228,
     "openIssues": 33,
-    "sizeKB": 2963948,
-    "latestPushAt": "2026-11-25T17:43:07.000Z"
+    "sizeKB": 2966842,
+    "latestPushAt": "2026-11-26T17:26:58.000Z"
   },
   "contributions": {
     "year": 2026,
-    "totalContributions": 5466,
-    "commits": 4810,
-    "issues": 95,
-    "pullRequests": 23,
+    "totalContributions": 5472,
+    "commits": 4702,
+    "issues": 47,
+    "pullRequests": 17,
     "pullRequestReviews": 0,
     "repositories": 52,
-    "restricted": 486,
+    "restricted": 654,
     "from": "2026-01-01T00:00:00.000Z",
-    "to": "2026-11-26T01:49:58.855Z"
+    "to": "2026-11-27T01:47:39.872Z"
   },
   "languages": [
     {
       "name": "JavaScript",
-      "bytes": 51271532,
-      "percent": 52.057316896194465
+      "bytes": 51284810,
+      "percent": 52.055246914780106
     },
     {
       "name": "TypeScript",
-      "bytes": 18066830,
-      "percent": 18.343721319262958
+      "bytes": 18082976,
+      "percent": 18.354631334971167
     },
     {
       "name": "Python",
       "bytes": 7271953,
-      "percent": 7.383402582455154
+      "percent": 7.3811974533526765
     },
     {
       "name": "HTML",
       "bytes": 5501489,
-      "percent": 5.58580454108389
+      "percent": 5.58413628312061
     },
     {
       "name": "Go",
       "bytes": 5228955,
-      "percent": 5.309093698837408
+      "percent": 5.307508083412496
     },
     {
       "name": "Fluent",
       "bytes": 4572086,
-      "percent": 4.642157557894977
+      "percent": 4.640771129806454
     },
     {
       "name": "CSS",
       "bytes": 2119881,
-      "percent": 2.1523701885721227
+      "percent": 2.151727361083154
     },
     {
       "name": "Vue",
       "bytes": 1892334,
-      "percent": 1.9213358148034911
+      "percent": 1.920761988105903
     }
   ],
   "topRepos": [
@@ -112,7 +112,7 @@
       "stars": 33,
       "forks": 7,
       "openIssues": 0,
-      "pushedAt": "2026-11-25T13:46:12Z",
+      "pushedAt": "2026-11-26T13:25:51Z",
       "archived": false,
       "fork": false,
       "score": 146
@@ -151,13 +151,13 @@
       "url": "https://github.com/tbdavid2019/888wiki",
       "description": "A Markdown wiki that can be installed on Cloudflare Worker, supporting SKILL and MCP invocations.  https://wiki.david888.com ",
       "language": "JavaScript",
-      "stars": 13,
+      "stars": 14,
       "forks": 2,
       "openIssues": 0,
-      "pushedAt": "2026-11-25T05:05:20Z",
+      "pushedAt": "2026-11-26T05:18:32Z",
       "archived": false,
       "fork": false,
-      "score": 56
+      "score": 60
     },
     {
       "name": "telegram-bot-stock2",
